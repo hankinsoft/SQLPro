@@ -1,0 +1,19 @@
+{
+    "displayName":"Default",
+    "version":14,
+    "plainTextColor":"000000",
+    "commentColor":"007400",
+    "functionColor":"FF252E",
+    "keywordColor":"1C00CF",
+    "stringColor":"C41A16",
+    "numberColor":"AA0D91",
+    "variableColor":"F0790B",
+    "tableColor":"836C28",
+    "columnColor":"286C83",
+
+    "backgroundColor":"ffffff",
+    "selectionColor":"A7CAFF",
+
+    "fontName":"Menlo Regular",
+    "fontSize":11
+}

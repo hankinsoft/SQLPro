@@ -1,0 +1,21 @@
+{
+    "displayName":"Sunset",
+    "version":3,
+
+    "backgroundColor":"FFFCE5",
+    "plainTextColor":"000000",
+    "commentColor":"C3741C",
+    "stringColor":"DF0700",
+    "numberColor":"DF0700",
+    "keywordColor":"294277",
+    "functionColor":"55747C",
+    "variableColor":"3F6E74",
+
+    "tableColor":"00A0BE",
+    "columnColor":"A00064",
+
+    "selectionColor":"F9DF9C",
+
+    "fontName":"Menlo Regular",
+    "fontSize":11
+}
