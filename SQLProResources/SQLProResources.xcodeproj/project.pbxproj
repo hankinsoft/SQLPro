@@ -20,6 +20,8 @@
 		7257CD02266121E400E68C17 /* MongoKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCFE266121E400E68C17 /* MongoKeywords.json */; };
 		7257CD03266121E400E68C17 /* MongoFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCFF266121E400E68C17 /* MongoFunctions.json */; };
 		7257CD04266121E400E68C17 /* MSSQLFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CD00266121E400E68C17 /* MSSQLFunctions.json */; };
+		7257CD072661225C00E68C17 /* OracleFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CD052661225C00E68C17 /* OracleFunctions.json */; };
+		7257CD082661225C00E68C17 /* OracleKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CD062661225C00E68C17 /* OracleKeywords.json */; };
 		72BF3C7D2661190C007DB682 /* SQLProResources.h in Headers */ = {isa = PBXBuildFile; fileRef = 72BF3C7B2661190C007DB682 /* SQLProResources.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		72BF3C862661192E007DB682 /* MySQLFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 72BF3C842661192E007DB682 /* MySQLFunctions.json */; };
 		72BF3C872661192E007DB682 /* MySQLKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 72BF3C852661192E007DB682 /* MySQLKeywords.json */; };
@@ -39,6 +41,8 @@
 		7257CCFE266121E400E68C17 /* MongoKeywords.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MongoKeywords.json; sourceTree = "<group>"; };
 		7257CCFF266121E400E68C17 /* MongoFunctions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MongoFunctions.json; sourceTree = "<group>"; };
 		7257CD00266121E400E68C17 /* MSSQLFunctions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MSSQLFunctions.json; sourceTree = "<group>"; };
+		7257CD052661225C00E68C17 /* OracleFunctions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = OracleFunctions.json; sourceTree = "<group>"; };
+		7257CD062661225C00E68C17 /* OracleKeywords.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = OracleKeywords.json; sourceTree = "<group>"; };
 		72BF3C782661190C007DB682 /* SQLProResources.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SQLProResources.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		72BF3C7B2661190C007DB682 /* SQLProResources.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SQLProResources.h; sourceTree = "<group>"; };
 		72BF3C7C2661190C007DB682 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -94,6 +98,8 @@
 				7257CCFD266121E400E68C17 /* MSSQLKeywords.json */,
 				72BF3C842661192E007DB682 /* MySQLFunctions.json */,
 				72BF3C852661192E007DB682 /* MySQLKeywords.json */,
+				7257CD052661225C00E68C17 /* OracleFunctions.json */,
+				7257CD062661225C00E68C17 /* OracleKeywords.json */,
 				7257CCF52661200600E68C17 /* PostgresFunctions.json */,
 				7257CCF62661200600E68C17 /* PostgresKeywords.json */,
 				7257CCEF26611FA600E68C17 /* SnowflakeFunctions.json */,
@@ -180,12 +186,14 @@
 				7257CCFC266121D800E68C17 /* SQLiteKeywords.json in Resources */,
 				7257CCD626611D1100E68C17 /* SQLProKeywords.json in Resources */,
 				7257CCF226611FA600E68C17 /* SnowflakeKeywords.json in Resources */,
+				7257CD082661225C00E68C17 /* OracleKeywords.json in Resources */,
 				7257CD04266121E400E68C17 /* MSSQLFunctions.json in Resources */,
 				72BF3C872661192E007DB682 /* MySQLKeywords.json in Resources */,
 				7257CCF82661200600E68C17 /* PostgresKeywords.json in Resources */,
 				7257CD02266121E400E68C17 /* MongoKeywords.json in Resources */,
 				7257CD03266121E400E68C17 /* MongoFunctions.json in Resources */,
 				7257CCF126611FA600E68C17 /* SnowflakeFunctions.json in Resources */,
+				7257CD072661225C00E68C17 /* OracleFunctions.json in Resources */,
 				72BF3C862661192E007DB682 /* MySQLFunctions.json in Resources */,
 				7257CCFB266121D800E68C17 /* SQLiteFunctions.json in Resources */,
 			);

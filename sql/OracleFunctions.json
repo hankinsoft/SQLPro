@@ -1,0 +1,44 @@
+{
+  "ABS" : {
+    "descriptionMarkup" : ""
+  },
+  "AVG" : {
+    "descriptionMarkup" : ""
+  },
+  "COUNT" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "EXTRACTVALUE" : {
+    "descriptionMarkup" : ""
+  },
+  "IFNULL" : {
+    "descriptionMarkup" : ""
+  },
+  "LENGTH" : {
+    "descriptionMarkup" : ""
+  },
+  "MAX" : {
+    "descriptionMarkup" : ""
+  },
+  "MIN" : {
+    "descriptionMarkup" : ""
+  },
+  "MOD" : {
+    "descriptionMarkup" : ""
+  },
+  "SUM" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "XMLTYPE" : {
+    "descriptionMarkup" : ""
+  }
+}
