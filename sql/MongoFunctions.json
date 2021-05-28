@@ -1,0 +1,6545 @@
+{
+  "ABBREV" : {
+    "descriptionMarkup" : ""
+  },
+  "ABS" : {
+    "descriptionMarkup" : ""
+  },
+  "ABSTIME" : {
+    "descriptionMarkup" : ""
+  },
+  "ABSTIMEEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "ABSTIMEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "ABSTIMEGT" : {
+    "descriptionMarkup" : ""
+  },
+  "ABSTIMEIN" : {
+    "descriptionMarkup" : ""
+  },
+  "ABSTIMELE" : {
+    "descriptionMarkup" : ""
+  },
+  "ABSTIMELT" : {
+    "descriptionMarkup" : ""
+  },
+  "ABSTIMENE" : {
+    "descriptionMarkup" : ""
+  },
+  "ABSTIMEOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "ABSTIMERECV" : {
+    "descriptionMarkup" : ""
+  },
+  "ABSTIMESEND" : {
+    "descriptionMarkup" : ""
+  },
+  "ACLCONTAINS" : {
+    "descriptionMarkup" : ""
+  },
+  "ACLDEFAULT" : {
+    "descriptionMarkup" : ""
+  },
+  "ACLEXPLODE" : {
+    "descriptionMarkup" : ""
+  },
+  "ACLINSERT" : {
+    "descriptionMarkup" : ""
+  },
+  "ACLITEMEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "ACLITEMIN" : {
+    "descriptionMarkup" : ""
+  },
+  "ACLITEMOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "ACLREMOVE" : {
+    "descriptionMarkup" : ""
+  },
+  "ACOS" : {
+    "descriptionMarkup" : ""
+  },
+  "AGE" : {
+    "descriptionMarkup" : ""
+  },
+  "ANY_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "ANY_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "ANYARRAY_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "ANYARRAY_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "ANYARRAY_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "ANYARRAY_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "ANYELEMENT_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "ANYELEMENT_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "ANYENUM_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "ANYENUM_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "ANYNONARRAY_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "ANYNONARRAY_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "ANYRANGE_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "ANYRANGE_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "ANYTEXTCAT" : {
+    "descriptionMarkup" : ""
+  },
+  "AREA" : {
+    "descriptionMarkup" : ""
+  },
+  "AREAJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "AREASEL" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_AGG" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_AGG_FINALFN" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_AGG_TRANSFN" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_APPEND" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_CAT" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_DIMS" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_FILL" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_LENGTH" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_LOWER" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_NDIMS" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_PREPEND" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_REMOVE" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_REPLACE" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_TO_JSON" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_TO_STRING" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_TYPANALYZE" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAY_UPPER" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAYCONTAINED" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAYCONTAINS" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAYCONTJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAYCONTSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "ARRAYOVERLAP" : {
+    "descriptionMarkup" : ""
+  },
+  "ASCII" : {
+    "descriptionMarkup" : ""
+  },
+  "ASCII_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "ASCII_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "ASIN" : {
+    "descriptionMarkup" : ""
+  },
+  "ATAN" : {
+    "descriptionMarkup" : ""
+  },
+  "ATAN2" : {
+    "descriptionMarkup" : ""
+  },
+  "AVG" : {
+    "descriptionMarkup" : ""
+  },
+  "BIG5_TO_EUC_TW" : {
+    "descriptionMarkup" : ""
+  },
+  "BIG5_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "BIG5_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "BIT_AND" : {
+    "descriptionMarkup" : ""
+  },
+  "BIT_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "BIT_LENGTH" : {
+    "descriptionMarkup" : ""
+  },
+  "BIT_OR" : {
+    "descriptionMarkup" : ""
+  },
+  "BIT_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "BIT_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "BIT_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "BITAND" : {
+    "descriptionMarkup" : ""
+  },
+  "BITCAT" : {
+    "descriptionMarkup" : ""
+  },
+  "BITCMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BITEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "BITGE" : {
+    "descriptionMarkup" : ""
+  },
+  "BITGT" : {
+    "descriptionMarkup" : ""
+  },
+  "BITLE" : {
+    "descriptionMarkup" : ""
+  },
+  "BITLT" : {
+    "descriptionMarkup" : ""
+  },
+  "BITNE" : {
+    "descriptionMarkup" : ""
+  },
+  "BITNOT" : {
+    "descriptionMarkup" : ""
+  },
+  "BITOR" : {
+    "descriptionMarkup" : ""
+  },
+  "BITSHIFTLEFT" : {
+    "descriptionMarkup" : ""
+  },
+  "BITSHIFTRIGHT" : {
+    "descriptionMarkup" : ""
+  },
+  "BITTYPMODIN" : {
+    "descriptionMarkup" : ""
+  },
+  "BITTYPMODOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "BITXOR" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOL" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOL_ACCUM" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOL_ACCUM_INV" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOL_ALLTRUE" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOL_AND" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOL_ANYTRUE" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOL_OR" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOLAND_STATEFUNC" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOLEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOLGE" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOLGT" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOLIN" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOLLE" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOLLT" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOLNE" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOLOR_STATEFUNC" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOLOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOLRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "BOOLSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_ABOVE" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_ABOVE_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_ADD" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_BELOW" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_BELOW_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_CENTER" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_CONTAIN" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_CONTAIN_PT" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_CONTAINED" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_DISTANCE" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_INTERSECT" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_LEFT" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_OVERABOVE" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_OVERBELOW" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_OVERLAP" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_OVERLEFT" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_OVERRIGHT" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_RIGHT" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_SAME" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "BOX_SUB" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHAR" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHAR_LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHAR_PATTERN_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHAR_PATTERN_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHAR_PATTERN_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHAR_PATTERN_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHAR_SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARCMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHAREQ" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARGE" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARGT" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARICLIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARICNLIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARICREGEXEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARICREGEXNE" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARIN" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARLE" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARLIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARLT" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARNE" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARNLIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHAROUT" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARREGEXEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARREGEXNE" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARTYPMODIN" : {
+    "descriptionMarkup" : ""
+  },
+  "BPCHARTYPMODOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "BROADCAST" : {
+    "descriptionMarkup" : ""
+  },
+  "BTABSTIMECMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTARRAYCMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTBEGINSCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "BTBOOLCMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTBPCHAR_PATTERN_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTBUILD" : {
+    "descriptionMarkup" : ""
+  },
+  "BTBUILDEMPTY" : {
+    "descriptionMarkup" : ""
+  },
+  "BTBULKDELETE" : {
+    "descriptionMarkup" : ""
+  },
+  "BTCANRETURN" : {
+    "descriptionMarkup" : ""
+  },
+  "BTCHARCMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTCOSTESTIMATE" : {
+    "descriptionMarkup" : ""
+  },
+  "BTENDSCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "BTFLOAT4CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTFLOAT4SORTSUPPORT" : {
+    "descriptionMarkup" : ""
+  },
+  "BTFLOAT8CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTFLOAT8SORTSUPPORT" : {
+    "descriptionMarkup" : ""
+  },
+  "BTFLOAT48CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTFLOAT84CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTGETBITMAP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTGETTUPLE" : {
+    "descriptionMarkup" : ""
+  },
+  "BTINSERT" : {
+    "descriptionMarkup" : ""
+  },
+  "BTINT2CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTINT2SORTSUPPORT" : {
+    "descriptionMarkup" : ""
+  },
+  "BTINT4CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTINT4SORTSUPPORT" : {
+    "descriptionMarkup" : ""
+  },
+  "BTINT8CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTINT8SORTSUPPORT" : {
+    "descriptionMarkup" : ""
+  },
+  "BTINT24CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTINT28CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTINT42CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTINT48CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTINT82CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTINT84CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTMARKPOS" : {
+    "descriptionMarkup" : ""
+  },
+  "BTNAMECMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTNAMESORTSUPPORT" : {
+    "descriptionMarkup" : ""
+  },
+  "BTOIDCMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTOIDSORTSUPPORT" : {
+    "descriptionMarkup" : ""
+  },
+  "BTOIDVECTORCMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTOPTIONS" : {
+    "descriptionMarkup" : ""
+  },
+  "BTRECORDCMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTRECORDIMAGECMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTRELTIMECMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTRESCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "BTRESTRPOS" : {
+    "descriptionMarkup" : ""
+  },
+  "BTRIM" : {
+    "descriptionMarkup" : ""
+  },
+  "BTTEXT_PATTERN_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTTEXTCMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTTIDCMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTTINTERVALCMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BTVACUUMCLEANUP" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEA_STRING_AGG_FINALFN" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEA_STRING_AGG_TRANSFN" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEACAT" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEACMP" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEAEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEAGE" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEAGT" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEAIN" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEALE" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEALIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEALT" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEANE" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEANLIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEAOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEARECV" : {
+    "descriptionMarkup" : ""
+  },
+  "BYTEASEND" : {
+    "descriptionMarkup" : ""
+  },
+  "CARDINALITY" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_DIV_CASH" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_DIV_FLT4" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_DIV_FLT8" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_DIV_INT2" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_DIV_INT4" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_MI" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_MUL_FLT4" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_MUL_FLT8" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_MUL_INT2" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_MUL_INT4" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_PL" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "CASH_WORDS" : {
+    "descriptionMarkup" : ""
+  },
+  "CASHLARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "CASHSMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "CBRT" : {
+    "descriptionMarkup" : ""
+  },
+  "CEIL" : {
+    "descriptionMarkup" : ""
+  },
+  "CEILING" : {
+    "descriptionMarkup" : ""
+  },
+  "CENTER" : {
+    "descriptionMarkup" : ""
+  },
+  "CHAR_LENGTH" : {
+    "descriptionMarkup" : ""
+  },
+  "CHARACTER_LENGTH" : {
+    "descriptionMarkup" : ""
+  },
+  "CHAREQ" : {
+    "descriptionMarkup" : ""
+  },
+  "CHARGE" : {
+    "descriptionMarkup" : ""
+  },
+  "CHARGT" : {
+    "descriptionMarkup" : ""
+  },
+  "CHARIN" : {
+    "descriptionMarkup" : ""
+  },
+  "CHARLE" : {
+    "descriptionMarkup" : ""
+  },
+  "CHARLT" : {
+    "descriptionMarkup" : ""
+  },
+  "CHARNE" : {
+    "descriptionMarkup" : ""
+  },
+  "CHAROUT" : {
+    "descriptionMarkup" : ""
+  },
+  "CHARRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "CHARSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "CHR" : {
+    "descriptionMarkup" : ""
+  },
+  "CIDEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "CIDIN" : {
+    "descriptionMarkup" : ""
+  },
+  "CIDOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "CIDR" : {
+    "descriptionMarkup" : ""
+  },
+  "CIDR_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "CIDR_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "CIDR_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "CIDR_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "CIDRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "CIDSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_ABOVE" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_ADD_PT" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_BELOW" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_CENTER" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_CONTAIN" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_CONTAIN_PT" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_CONTAINED" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_DISTANCE" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_DIV_PT" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_LEFT" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_MUL_PT" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_OVERABOVE" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_OVERBELOW" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_OVERLAP" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_OVERLEFT" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_OVERRIGHT" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_RIGHT" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_SAME" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "CIRCLE_SUB_PT" : {
+    "descriptionMarkup" : ""
+  },
+  "CLOCK_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "CLOSE_LB" : {
+    "descriptionMarkup" : ""
+  },
+  "CLOSE_LS" : {
+    "descriptionMarkup" : ""
+  },
+  "CLOSE_LSEG" : {
+    "descriptionMarkup" : ""
+  },
+  "CLOSE_PB" : {
+    "descriptionMarkup" : ""
+  },
+  "CLOSE_PL" : {
+    "descriptionMarkup" : ""
+  },
+  "CLOSE_PS" : {
+    "descriptionMarkup" : ""
+  },
+  "CLOSE_SB" : {
+    "descriptionMarkup" : ""
+  },
+  "CLOSE_SL" : {
+    "descriptionMarkup" : ""
+  },
+  "COL_DESCRIPTION" : {
+    "descriptionMarkup" : ""
+  },
+  "CONCAT" : {
+    "descriptionMarkup" : ""
+  },
+  "CONCAT_WS" : {
+    "descriptionMarkup" : ""
+  },
+  "CONTJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "CONTSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "CONVERT" : {
+    "descriptionMarkup" : ""
+  },
+  "CONVERT_FROM" : {
+    "descriptionMarkup" : ""
+  },
+  "CONVERT_TO" : {
+    "descriptionMarkup" : ""
+  },
+  "CORR" : {
+    "descriptionMarkup" : ""
+  },
+  "COS" : {
+    "descriptionMarkup" : ""
+  },
+  "COT" : {
+    "descriptionMarkup" : ""
+  },
+  "COUNT" : {
+    "descriptionMarkup" : ""
+  },
+  "COVAR_POP" : {
+    "descriptionMarkup" : ""
+  },
+  "COVAR_SAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "CSTRING_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "CSTRING_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "CSTRING_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "CSTRING_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "CUME_DIST" : {
+    "descriptionMarkup" : ""
+  },
+  "CUME_DIST_FINAL" : {
+    "descriptionMarkup" : ""
+  },
+  "CURRENT_DATABASE" : {
+    "descriptionMarkup" : ""
+  },
+  "CURRENT_QUERY" : {
+    "descriptionMarkup" : ""
+  },
+  "CURRENT_SCHEMAS" : {
+    "descriptionMarkup" : ""
+  },
+  "CURRENT_SETTING" : {
+    "descriptionMarkup" : ""
+  },
+  "CURRTID" : {
+    "descriptionMarkup" : ""
+  },
+  "CURRTID2" : {
+    "descriptionMarkup" : ""
+  },
+  "CURRVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "CURSOR_TO_XML" : {
+    "descriptionMarkup" : ""
+  },
+  "CURSOR_TO_XMLSCHEMA" : {
+    "descriptionMarkup" : ""
+  },
+  "DATABASE_TO_XML" : {
+    "descriptionMarkup" : ""
+  },
+  "DATABASE_TO_XML_AND_XMLSCHEMA" : {
+    "descriptionMarkup" : ""
+  },
+  "DATABASE_TO_XMLSCHEMA" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_CMP_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_CMP_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_EQ_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_EQ_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_GE_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_GE_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_GT_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_GT_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_LE_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_LE_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_LT_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_LT_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_MI" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_MI_INTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_MII" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_NE_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_NE_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_PART" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_PL_INTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_PLI" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_SORTSUPPORT" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_TRUNC" : {
+    "descriptionMarkup" : ""
+  },
+  "DATERANGE" : {
+    "descriptionMarkup" : ""
+  },
+  "DATERANGE_CANONICAL" : {
+    "descriptionMarkup" : ""
+  },
+  "DATERANGE_SUBDIFF" : {
+    "descriptionMarkup" : ""
+  },
+  "DATETIME_PL" : {
+    "descriptionMarkup" : ""
+  },
+  "DATETIMETZ_PL" : {
+    "descriptionMarkup" : ""
+  },
+  "DCBRT" : {
+    "descriptionMarkup" : ""
+  },
+  "DECODE" : {
+    "descriptionMarkup" : ""
+  },
+  "DEGREES" : {
+    "descriptionMarkup" : ""
+  },
+  "DENSE_RANK" : {
+    "descriptionMarkup" : ""
+  },
+  "DENSE_RANK_FINAL" : {
+    "descriptionMarkup" : ""
+  },
+  "DEXP" : {
+    "descriptionMarkup" : ""
+  },
+  "DIAGONAL" : {
+    "descriptionMarkup" : ""
+  },
+  "DIAMETER" : {
+    "descriptionMarkup" : ""
+  },
+  "DISPELL_INIT" : {
+    "descriptionMarkup" : ""
+  },
+  "DISPELL_LEXIZE" : {
+    "descriptionMarkup" : ""
+  },
+  "DIST_CPOLY" : {
+    "descriptionMarkup" : ""
+  },
+  "DIST_LB" : {
+    "descriptionMarkup" : ""
+  },
+  "DIST_PB" : {
+    "descriptionMarkup" : ""
+  },
+  "DIST_PC" : {
+    "descriptionMarkup" : ""
+  },
+  "DIST_PL" : {
+    "descriptionMarkup" : ""
+  },
+  "DIST_PPATH" : {
+    "descriptionMarkup" : ""
+  },
+  "DIST_PS" : {
+    "descriptionMarkup" : ""
+  },
+  "DIST_SB" : {
+    "descriptionMarkup" : ""
+  },
+  "DIST_SL" : {
+    "descriptionMarkup" : ""
+  },
+  "DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "DLOG1" : {
+    "descriptionMarkup" : ""
+  },
+  "DLOG10" : {
+    "descriptionMarkup" : ""
+  },
+  "DOMAIN_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "DOMAIN_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "DPOW" : {
+    "descriptionMarkup" : ""
+  },
+  "DROUND" : {
+    "descriptionMarkup" : ""
+  },
+  "DSIMPLE_INIT" : {
+    "descriptionMarkup" : ""
+  },
+  "DSIMPLE_LEXIZE" : {
+    "descriptionMarkup" : ""
+  },
+  "DSNOWBALL_INIT" : {
+    "descriptionMarkup" : ""
+  },
+  "DSNOWBALL_LEXIZE" : {
+    "descriptionMarkup" : ""
+  },
+  "DSQRT" : {
+    "descriptionMarkup" : ""
+  },
+  "DSYNONYM_INIT" : {
+    "descriptionMarkup" : ""
+  },
+  "DSYNONYM_LEXIZE" : {
+    "descriptionMarkup" : ""
+  },
+  "DTRUNC" : {
+    "descriptionMarkup" : ""
+  },
+  "ELEM_CONTAINED_BY_RANGE" : {
+    "descriptionMarkup" : ""
+  },
+  "ENCODE" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_FIRST" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_LAST" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_RANGE" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "ENUM_SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "EQJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "EQSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "EUC_CN_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "EUC_CN_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "EUC_JIS_2004_TO_SHIFT_JIS_2004" : {
+    "descriptionMarkup" : ""
+  },
+  "EUC_JIS_2004_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "EUC_JP_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "EUC_JP_TO_SJIS" : {
+    "descriptionMarkup" : ""
+  },
+  "EUC_JP_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "EUC_KR_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "EUC_KR_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "EUC_TW_TO_BIG5" : {
+    "descriptionMarkup" : ""
+  },
+  "EUC_TW_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "EUC_TW_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "EVENT_TRIGGER_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "EVENT_TRIGGER_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "EVERY" : {
+    "descriptionMarkup" : ""
+  },
+  "EXP" : {
+    "descriptionMarkup" : ""
+  },
+  "FACTORIAL" : {
+    "descriptionMarkup" : ""
+  },
+  "FAMILY" : {
+    "descriptionMarkup" : ""
+  },
+  "FDW_HANDLER_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "FDW_HANDLER_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "FIRST_VALUE" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4_ACCUM" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4ABS" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4GE" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4GT" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4IN" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4LE" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4LT" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4MI" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4NE" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4PL" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4UM" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT4UP" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_ACCUM" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_AVG" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_CORR" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_COVAR_POP" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_COVAR_SAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_REGR_ACCUM" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_REGR_AVGX" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_REGR_AVGY" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_REGR_INTERCEPT" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_REGR_R2" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_REGR_SLOPE" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_REGR_SXX" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_REGR_SXY" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_REGR_SYY" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_STDDEV_POP" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_STDDEV_SAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_VAR_POP" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8_VAR_SAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8ABS" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8GE" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8GT" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8IN" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8LE" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8LT" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8MI" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8NE" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8PL" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8UM" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT8UP" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT48DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT48EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT48GE" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT48GT" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT48LE" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT48LT" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT48MI" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT48MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT48NE" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT48PL" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT84DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT84EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT84GE" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT84GT" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT84LE" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT84LT" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT84MI" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT84MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT84NE" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOAT84PL" : {
+    "descriptionMarkup" : ""
+  },
+  "FLOOR" : {
+    "descriptionMarkup" : ""
+  },
+  "FLT4_MUL_CASH" : {
+    "descriptionMarkup" : ""
+  },
+  "FLT8_MUL_CASH" : {
+    "descriptionMarkup" : ""
+  },
+  "FMGR_C_VALIDATOR" : {
+    "descriptionMarkup" : ""
+  },
+  "FMGR_INTERNAL_VALIDATOR" : {
+    "descriptionMarkup" : ""
+  },
+  "FMGR_SQL_VALIDATOR" : {
+    "descriptionMarkup" : ""
+  },
+  "FORMAT" : {
+    "descriptionMarkup" : ""
+  },
+  "FORMAT_TYPE" : {
+    "descriptionMarkup" : ""
+  },
+  "GB18030_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "GBK_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "GENERATE_SERIES" : {
+    "descriptionMarkup" : ""
+  },
+  "GENERATE_SUBSCRIPTS" : {
+    "descriptionMarkup" : ""
+  },
+  "GET_BIT" : {
+    "descriptionMarkup" : ""
+  },
+  "GET_BYTE" : {
+    "descriptionMarkup" : ""
+  },
+  "GET_CURRENT_TS_CONFIG" : {
+    "descriptionMarkup" : ""
+  },
+  "GETDATABASEENCODING" : {
+    "descriptionMarkup" : ""
+  },
+  "GETPGUSERNAME" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_CMP_PREFIX" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_CMP_TSLEXEME" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_COMPARE_JSONB" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_CONSISTENT_JSONB" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_CONSISTENT_JSONB_PATH" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_EXTRACT_JSONB" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_EXTRACT_JSONB_PATH" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_EXTRACT_JSONB_QUERY" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_EXTRACT_JSONB_QUERY_PATH" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_EXTRACT_TSQUERY" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_EXTRACT_TSVECTOR" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_TRICONSISTENT_JSONB" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_TRICONSISTENT_JSONB_PATH" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_TSQUERY_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "GIN_TSQUERY_TRICONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "GINARRAYCONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "GINARRAYEXTRACT" : {
+    "descriptionMarkup" : ""
+  },
+  "GINARRAYTRICONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "GINBEGINSCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "GINBUILD" : {
+    "descriptionMarkup" : ""
+  },
+  "GINBUILDEMPTY" : {
+    "descriptionMarkup" : ""
+  },
+  "GINBULKDELETE" : {
+    "descriptionMarkup" : ""
+  },
+  "GINCOSTESTIMATE" : {
+    "descriptionMarkup" : ""
+  },
+  "GINENDSCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "GINGETBITMAP" : {
+    "descriptionMarkup" : ""
+  },
+  "GININSERT" : {
+    "descriptionMarkup" : ""
+  },
+  "GINMARKPOS" : {
+    "descriptionMarkup" : ""
+  },
+  "GINOPTIONS" : {
+    "descriptionMarkup" : ""
+  },
+  "GINQUERYARRAYEXTRACT" : {
+    "descriptionMarkup" : ""
+  },
+  "GINRESCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "GINRESTRPOS" : {
+    "descriptionMarkup" : ""
+  },
+  "GINVACUUMCLEANUP" : {
+    "descriptionMarkup" : ""
+  },
+  "GIST_BOX_COMPRESS" : {
+    "descriptionMarkup" : ""
+  },
+  "GIST_BOX_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "GIST_BOX_DECOMPRESS" : {
+    "descriptionMarkup" : ""
+  },
+  "GIST_BOX_PENALTY" : {
+    "descriptionMarkup" : ""
+  },
+  "GIST_BOX_PICKSPLIT" : {
+    "descriptionMarkup" : ""
+  },
+  "GIST_BOX_SAME" : {
+    "descriptionMarkup" : ""
+  },
+  "GIST_BOX_UNION" : {
+    "descriptionMarkup" : ""
+  },
+  "GIST_CIRCLE_COMPRESS" : {
+    "descriptionMarkup" : ""
+  },
+  "GIST_CIRCLE_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "GIST_POINT_COMPRESS" : {
+    "descriptionMarkup" : ""
+  },
+  "GIST_POINT_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "GIST_POINT_DISTANCE" : {
+    "descriptionMarkup" : ""
+  },
+  "GIST_POLY_COMPRESS" : {
+    "descriptionMarkup" : ""
+  },
+  "GIST_POLY_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "GISTBEGINSCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "GISTBUILD" : {
+    "descriptionMarkup" : ""
+  },
+  "GISTBUILDEMPTY" : {
+    "descriptionMarkup" : ""
+  },
+  "GISTBULKDELETE" : {
+    "descriptionMarkup" : ""
+  },
+  "GISTCOSTESTIMATE" : {
+    "descriptionMarkup" : ""
+  },
+  "GISTENDSCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "GISTGETBITMAP" : {
+    "descriptionMarkup" : ""
+  },
+  "GISTGETTUPLE" : {
+    "descriptionMarkup" : ""
+  },
+  "GISTINSERT" : {
+    "descriptionMarkup" : ""
+  },
+  "GISTMARKPOS" : {
+    "descriptionMarkup" : ""
+  },
+  "GISTOPTIONS" : {
+    "descriptionMarkup" : ""
+  },
+  "GISTRESCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "GISTRESTRPOS" : {
+    "descriptionMarkup" : ""
+  },
+  "GISTVACUUMCLEANUP" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSQUERY_COMPRESS" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSQUERY_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSQUERY_DECOMPRESS" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSQUERY_PENALTY" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSQUERY_PICKSPLIT" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSQUERY_SAME" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSQUERY_UNION" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSVECTOR_COMPRESS" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSVECTOR_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSVECTOR_DECOMPRESS" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSVECTOR_PENALTY" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSVECTOR_PICKSPLIT" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSVECTOR_SAME" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSVECTOR_UNION" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSVECTORIN" : {
+    "descriptionMarkup" : ""
+  },
+  "GTSVECTOROUT" : {
+    "descriptionMarkup" : ""
+  },
+  "HAS_ANY_COLUMN_PRIVILEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "HAS_COLUMN_PRIVILEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "HAS_DATABASE_PRIVILEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "HAS_FOREIGN_DATA_WRAPPER_PRIVILEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "HAS_FUNCTION_PRIVILEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "HAS_LANGUAGE_PRIVILEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "HAS_SCHEMA_PRIVILEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "HAS_SEQUENCE_PRIVILEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "HAS_SERVER_PRIVILEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "HAS_TABLE_PRIVILEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "HAS_TABLESPACE_PRIVILEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "HAS_TYPE_PRIVILEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "HASH_ACLITEM" : {
+    "descriptionMarkup" : ""
+  },
+  "HASH_ARRAY" : {
+    "descriptionMarkup" : ""
+  },
+  "HASH_NUMERIC" : {
+    "descriptionMarkup" : ""
+  },
+  "HASH_RANGE" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHBEGINSCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHBPCHAR" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHBUILD" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHBUILDEMPTY" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHBULKDELETE" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHCHAR" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHCOSTESTIMATE" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHENDSCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHENUM" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHFLOAT4" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHFLOAT8" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHGETBITMAP" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHGETTUPLE" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHINET" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHINSERT" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHINT2" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHINT2VECTOR" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHINT4" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHINT8" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHMACADDR" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHMARKPOS" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHNAME" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHOID" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHOIDVECTOR" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHOPTIONS" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHRESCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHRESTRPOS" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHTEXT" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHVACUUMCLEANUP" : {
+    "descriptionMarkup" : ""
+  },
+  "HASHVARLENA" : {
+    "descriptionMarkup" : ""
+  },
+  "HEIGHT" : {
+    "descriptionMarkup" : ""
+  },
+  "HOST" : {
+    "descriptionMarkup" : ""
+  },
+  "HOSTMASK" : {
+    "descriptionMarkup" : ""
+  },
+  "ICLIKEJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "ICLIKESEL" : {
+    "descriptionMarkup" : ""
+  },
+  "ICNLIKEJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "ICNLIKESEL" : {
+    "descriptionMarkup" : ""
+  },
+  "ICREGEXEQJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "ICREGEXEQSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "ICREGEXNEJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "ICREGEXNESEL" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_CLIENT_ADDR" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_CLIENT_PORT" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_GIST_COMPRESS" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_GIST_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_GIST_DECOMPRESS" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_GIST_PENALTY" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_GIST_PICKSPLIT" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_GIST_SAME" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_GIST_UNION" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_SERVER_ADDR" : {
+    "descriptionMarkup" : ""
+  },
+  "INET_SERVER_PORT" : {
+    "descriptionMarkup" : ""
+  },
+  "INETAND" : {
+    "descriptionMarkup" : ""
+  },
+  "INETMI" : {
+    "descriptionMarkup" : ""
+  },
+  "INETMI_INT8" : {
+    "descriptionMarkup" : ""
+  },
+  "INETNOT" : {
+    "descriptionMarkup" : ""
+  },
+  "INETOR" : {
+    "descriptionMarkup" : ""
+  },
+  "INETPL" : {
+    "descriptionMarkup" : ""
+  },
+  "INITCAP" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2_ACCUM" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2_ACCUM_INV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2_AVG_ACCUM" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2_AVG_ACCUM_INV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2_MUL_CASH" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2_SUM" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2ABS" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2AND" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2GE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2GT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2IN" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2INT4_SUM" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2LE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2LT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2MI" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2MOD" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2NE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2NOT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2OR" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2PL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2SHL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2SHR" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2UM" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2UP" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2VECTOREQ" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2VECTORIN" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2VECTOROUT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2VECTORRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2VECTORSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "INT2XOR" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4_ACCUM" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4_ACCUM_INV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4_AVG_ACCUM" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4_AVG_ACCUM_INV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4_MUL_CASH" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4_SUM" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4ABS" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4AND" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4GE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4GT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4IN" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4INC" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4LE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4LT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4MI" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4MOD" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4NE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4NOT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4OR" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4PL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4RANGE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4RANGE_CANONICAL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4RANGE_SUBDIFF" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4SHL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4SHR" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4UM" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4UP" : {
+    "descriptionMarkup" : ""
+  },
+  "INT4XOR" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8_ACCUM" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8_ACCUM_INV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8_AVG" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8_AVG_ACCUM" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8_SUM" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8ABS" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8AND" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8DEC" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8DEC_ANY" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8GE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8GT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8IN" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8INC" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8INC_ANY" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8INC_FLOAT8_FLOAT8" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8LE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8LT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8MI" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8MOD" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8NE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8NOT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8OR" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8PL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8PL_INET" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8RANGE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8RANGE_CANONICAL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8RANGE_SUBDIFF" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8SHL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8SHR" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8UM" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8UP" : {
+    "descriptionMarkup" : ""
+  },
+  "INT8XOR" : {
+    "descriptionMarkup" : ""
+  },
+  "INT24DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT24EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "INT24GE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT24GT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT24LE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT24LT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT24MI" : {
+    "descriptionMarkup" : ""
+  },
+  "INT24MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT24NE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT24PL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT28DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT28EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "INT28GE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT28GT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT28LE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT28LT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT28MI" : {
+    "descriptionMarkup" : ""
+  },
+  "INT28MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT28NE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT28PL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT42DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT42EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "INT42GE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT42GT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT42LE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT42LT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT42MI" : {
+    "descriptionMarkup" : ""
+  },
+  "INT42MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT42NE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT42PL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT48DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT48EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "INT48GE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT48GT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT48LE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT48LT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT48MI" : {
+    "descriptionMarkup" : ""
+  },
+  "INT48MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT48NE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT48PL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT82DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT82EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "INT82GE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT82GT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT82LE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT82LT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT82MI" : {
+    "descriptionMarkup" : ""
+  },
+  "INT82MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT82NE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT82PL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT84DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "INT84EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "INT84GE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT84GT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT84LE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT84LT" : {
+    "descriptionMarkup" : ""
+  },
+  "INT84MI" : {
+    "descriptionMarkup" : ""
+  },
+  "INT84MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "INT84NE" : {
+    "descriptionMarkup" : ""
+  },
+  "INT84PL" : {
+    "descriptionMarkup" : ""
+  },
+  "INTEGER_PL_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "INTER_LB" : {
+    "descriptionMarkup" : ""
+  },
+  "INTER_SB" : {
+    "descriptionMarkup" : ""
+  },
+  "INTER_SL" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERNAL_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERNAL_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_ACCUM" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_ACCUM_INV" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_AVG" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_HASH" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_MI" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_PL" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_PL_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_PL_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_PL_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_PL_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_PL_TIMETZ" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_TRANSFORM" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVAL_UM" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVALTYPMODIN" : {
+    "descriptionMarkup" : ""
+  },
+  "INTERVALTYPMODOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "INTINTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "ISCLOSED" : {
+    "descriptionMarkup" : ""
+  },
+  "ISEMPTY" : {
+    "descriptionMarkup" : ""
+  },
+  "ISFINITE" : {
+    "descriptionMarkup" : ""
+  },
+  "ISHORIZONTAL" : {
+    "descriptionMarkup" : ""
+  },
+  "ISO_TO_KOI8R" : {
+    "descriptionMarkup" : ""
+  },
+  "ISO_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "ISO_TO_WIN866" : {
+    "descriptionMarkup" : ""
+  },
+  "ISO_TO_WIN1251" : {
+    "descriptionMarkup" : ""
+  },
+  "ISO8859_1_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "ISO8859_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "ISOPEN" : {
+    "descriptionMarkup" : ""
+  },
+  "ISPARALLEL" : {
+    "descriptionMarkup" : ""
+  },
+  "ISPERP" : {
+    "descriptionMarkup" : ""
+  },
+  "ISVERTICAL" : {
+    "descriptionMarkup" : ""
+  },
+  "JOHAB_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_AGG" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_AGG_FINALFN" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_AGG_TRANSFN" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_ARRAY_ELEMENT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_ARRAY_ELEMENT_TEXT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_ARRAY_ELEMENTS" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_ARRAY_ELEMENTS_TEXT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_ARRAY_LENGTH" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_BUILD_ARRAY" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_BUILD_OBJECT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_EACH" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_EACH_TEXT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_EXTRACT_PATH" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_EXTRACT_PATH_TEXT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_OBJECT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_OBJECT_AGG" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_OBJECT_AGG_FINALFN" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_OBJECT_AGG_TRANSFN" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_OBJECT_FIELD" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_OBJECT_FIELD_TEXT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_OBJECT_KEYS" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_POPULATE_RECORD" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_POPULATE_RECORDSET" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_TO_RECORD" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_TO_RECORDSET" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_TYPEOF" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_ARRAY_ELEMENT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_ARRAY_ELEMENT_TEXT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_ARRAY_ELEMENTS" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_ARRAY_ELEMENTS_TEXT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_ARRAY_LENGTH" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_CONTAINED" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_CONTAINS" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_EACH" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_EACH_TEXT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_EXISTS" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_EXISTS_ALL" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_EXISTS_ANY" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_EXTRACT_PATH" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_EXTRACT_PATH_TEXT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_HASH" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_OBJECT_FIELD" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_OBJECT_FIELD_TEXT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_OBJECT_KEYS" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_POPULATE_RECORD" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_POPULATE_RECORDSET" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_TO_RECORD" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_TO_RECORDSET" : {
+    "descriptionMarkup" : ""
+  },
+  "JSONB_TYPEOF" : {
+    "descriptionMarkup" : ""
+  },
+  "JUSTIFY_DAYS" : {
+    "descriptionMarkup" : ""
+  },
+  "JUSTIFY_HOURS" : {
+    "descriptionMarkup" : ""
+  },
+  "JUSTIFY_INTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "KOI8R_TO_ISO" : {
+    "descriptionMarkup" : ""
+  },
+  "KOI8R_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "KOI8R_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "KOI8R_TO_WIN866" : {
+    "descriptionMarkup" : ""
+  },
+  "KOI8R_TO_WIN1251" : {
+    "descriptionMarkup" : ""
+  },
+  "KOI8U_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "LAG" : {
+    "descriptionMarkup" : ""
+  },
+  "LANGUAGE_HANDLER_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "LANGUAGE_HANDLER_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "LAST_VALUE" : {
+    "descriptionMarkup" : ""
+  },
+  "LASTVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "LATIN1_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "LATIN2_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "LATIN2_TO_WIN1250" : {
+    "descriptionMarkup" : ""
+  },
+  "LATIN3_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "LATIN4_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "LEAD" : {
+    "descriptionMarkup" : ""
+  },
+  "LENGTH" : {
+    "descriptionMarkup" : ""
+  },
+  "LIKE_ESCAPE" : {
+    "descriptionMarkup" : ""
+  },
+  "LIKEJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "LIKESEL" : {
+    "descriptionMarkup" : ""
+  },
+  "LINE" : {
+    "descriptionMarkup" : ""
+  },
+  "LINE_DISTANCE" : {
+    "descriptionMarkup" : ""
+  },
+  "LINE_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "LINE_HORIZONTAL" : {
+    "descriptionMarkup" : ""
+  },
+  "LINE_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "LINE_INTERPT" : {
+    "descriptionMarkup" : ""
+  },
+  "LINE_INTERSECT" : {
+    "descriptionMarkup" : ""
+  },
+  "LINE_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "LINE_PARALLEL" : {
+    "descriptionMarkup" : ""
+  },
+  "LINE_PERP" : {
+    "descriptionMarkup" : ""
+  },
+  "LINE_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "LINE_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "LINE_VERTICAL" : {
+    "descriptionMarkup" : ""
+  },
+  "LN" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_CLOSE" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_CREAT" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_CREATE" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_EXPORT" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_FROM_BYTEA" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_GET" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_IMPORT" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_LSEEK" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_LSEEK64" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_OPEN" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_PUT" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_TELL" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_TELL64" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_TRUNCATE" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_TRUNCATE64" : {
+    "descriptionMarkup" : ""
+  },
+  "LO_UNLINK" : {
+    "descriptionMarkup" : ""
+  },
+  "LOG" : {
+    "descriptionMarkup" : ""
+  },
+  "LOREAD" : {
+    "descriptionMarkup" : ""
+  },
+  "LOWER" : {
+    "descriptionMarkup" : ""
+  },
+  "LOWER_INC" : {
+    "descriptionMarkup" : ""
+  },
+  "LOWER_INF" : {
+    "descriptionMarkup" : ""
+  },
+  "LOWRITE" : {
+    "descriptionMarkup" : ""
+  },
+  "LPAD" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_CENTER" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_DISTANCE" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_HORIZONTAL" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_INTERPT" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_INTERSECT" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_LENGTH" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_PARALLEL" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_PERP" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "LSEG_VERTICAL" : {
+    "descriptionMarkup" : ""
+  },
+  "LTRIM" : {
+    "descriptionMarkup" : ""
+  },
+  "MACADDR_AND" : {
+    "descriptionMarkup" : ""
+  },
+  "MACADDR_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "MACADDR_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "MACADDR_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "MACADDR_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "MACADDR_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "MACADDR_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "MACADDR_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "MACADDR_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "MACADDR_NOT" : {
+    "descriptionMarkup" : ""
+  },
+  "MACADDR_OR" : {
+    "descriptionMarkup" : ""
+  },
+  "MACADDR_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "MACADDR_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "MACADDR_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "MAKE_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "MAKE_INTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "MAKE_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "MAKE_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "MAKE_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "MAKEACLITEM" : {
+    "descriptionMarkup" : ""
+  },
+  "MASKLEN" : {
+    "descriptionMarkup" : ""
+  },
+  "MAX" : {
+    "descriptionMarkup" : ""
+  },
+  "MD5" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_ASCII" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_BIG5" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_EUC_CN" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_EUC_JP" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_EUC_KR" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_EUC_TW" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_ISO" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_KOI8R" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_LATIN1" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_LATIN2" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_LATIN3" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_LATIN4" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_SJIS" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_WIN866" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_WIN1250" : {
+    "descriptionMarkup" : ""
+  },
+  "MIC_TO_WIN1251" : {
+    "descriptionMarkup" : ""
+  },
+  "MIN" : {
+    "descriptionMarkup" : ""
+  },
+  "MKTINTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "MOD" : {
+    "descriptionMarkup" : ""
+  },
+  "MODE" : {
+    "descriptionMarkup" : ""
+  },
+  "MODE_FINAL" : {
+    "descriptionMarkup" : ""
+  },
+  "MONEY" : {
+    "descriptionMarkup" : ""
+  },
+  "MONGODBQL_FDW_VALIDATOR" : {
+    "descriptionMarkup" : ""
+  },
+  "MUL_D_INTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "NAME" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMEEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMEGT" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMEICLIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMEICNLIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMEICREGEXEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMEICREGEXNE" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMEIN" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMELE" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMELIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMELT" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMENE" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMENLIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMEOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMERECV" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMEREGEXEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMEREGEXNE" : {
+    "descriptionMarkup" : ""
+  },
+  "NAMESEND" : {
+    "descriptionMarkup" : ""
+  },
+  "NEQJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "NEQSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "NETMASK" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORK" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORK_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORK_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORK_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORK_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORK_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORK_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORK_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORK_OVERLAP" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORK_SUB" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORK_SUBEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORK_SUP" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORK_SUPEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORKJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "NETWORKSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "NEXTVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "NLIKEJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "NLIKESEL" : {
+    "descriptionMarkup" : ""
+  },
+  "NOTLIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "NOW" : {
+    "descriptionMarkup" : ""
+  },
+  "NPOINTS" : {
+    "descriptionMarkup" : ""
+  },
+  "NTH_VALUE" : {
+    "descriptionMarkup" : ""
+  },
+  "NTILE" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_ABS" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_ACCUM" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_ACCUM_INV" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_ADD" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_AVG" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_AVG_ACCUM" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_DIV_TRUNC" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_EXP" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_FAC" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_INC" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_LN" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_LOG" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_MOD" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_POWER" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_SQRT" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_STDDEV_POP" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_STDDEV_SAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_SUB" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_SUM" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_TRANSFORM" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_UMINUS" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_UPLUS" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_VAR_POP" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERIC_VAR_SAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERICTYPMODIN" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMERICTYPMODOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMNODE" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMRANGE" : {
+    "descriptionMarkup" : ""
+  },
+  "NUMRANGE_SUBDIFF" : {
+    "descriptionMarkup" : ""
+  },
+  "OBJ_DESCRIPTION" : {
+    "descriptionMarkup" : ""
+  },
+  "OCTET_LENGTH" : {
+    "descriptionMarkup" : ""
+  },
+  "OID" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDGE" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDGT" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDIN" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDLARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDLE" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDLT" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDNE" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDSMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDVECTOREQ" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDVECTORGE" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDVECTORGT" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDVECTORIN" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDVECTORLE" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDVECTORLT" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDVECTORNE" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDVECTOROUT" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDVECTORRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDVECTORSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "OIDVECTORTYPES" : {
+    "descriptionMarkup" : ""
+  },
+  "ON_PB" : {
+    "descriptionMarkup" : ""
+  },
+  "ON_PL" : {
+    "descriptionMarkup" : ""
+  },
+  "ON_PPATH" : {
+    "descriptionMarkup" : ""
+  },
+  "ON_PS" : {
+    "descriptionMarkup" : ""
+  },
+  "ON_SB" : {
+    "descriptionMarkup" : ""
+  },
+  "ON_SL" : {
+    "descriptionMarkup" : ""
+  },
+  "OPAQUE_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "OPAQUE_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "ORDERED_SET_TRANSITION" : {
+    "descriptionMarkup" : ""
+  },
+  "ORDERED_SET_TRANSITION_MULTI" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_ADD" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_ADD_PT" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_CENTER" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_CONTAIN_PT" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_DISTANCE" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_DIV_PT" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_INTER" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_LENGTH" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_MUL_PT" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_N_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_N_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_N_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_N_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_N_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_NPOINTS" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "PATH_SUB_PT" : {
+    "descriptionMarkup" : ""
+  },
+  "PCLOSE" : {
+    "descriptionMarkup" : ""
+  },
+  "PERCENT_RANK" : {
+    "descriptionMarkup" : ""
+  },
+  "PERCENT_RANK_FINAL" : {
+    "descriptionMarkup" : ""
+  },
+  "PERCENTILE_CONT" : {
+    "descriptionMarkup" : ""
+  },
+  "PERCENTILE_CONT_FLOAT8_FINAL" : {
+    "descriptionMarkup" : ""
+  },
+  "PERCENTILE_CONT_FLOAT8_MULTI_FINAL" : {
+    "descriptionMarkup" : ""
+  },
+  "PERCENTILE_CONT_INTERVAL_FINAL" : {
+    "descriptionMarkup" : ""
+  },
+  "PERCENTILE_CONT_INTERVAL_MULTI_FINAL" : {
+    "descriptionMarkup" : ""
+  },
+  "PERCENTILE_DISC" : {
+    "descriptionMarkup" : ""
+  },
+  "PERCENTILE_DISC_FINAL" : {
+    "descriptionMarkup" : ""
+  },
+  "PERCENTILE_DISC_MULTI_FINAL" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_ADVISORY_LOCK" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_ADVISORY_LOCK_SHARED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_ADVISORY_UNLOCK" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_ADVISORY_UNLOCK_ALL" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_ADVISORY_UNLOCK_SHARED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_ADVISORY_XACT_LOCK" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_ADVISORY_XACT_LOCK_SHARED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_AVAILABLE_EXTENSION_VERSIONS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_AVAILABLE_EXTENSIONS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_BACKEND_PID" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_BACKUP_START_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_CANCEL_BACKEND" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_CHAR_TO_ENCODING" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_CLIENT_ENCODING" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_COLLATION_FOR" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_COLLATION_IS_VISIBLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_COLUMN_IS_UPDATABLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_COLUMN_SIZE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_CONF_LOAD_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_CONVERSION_IS_VISIBLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_CREATE_LOGICAL_REPLICATION_SLOT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_CREATE_PHYSICAL_REPLICATION_SLOT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_CREATE_RESTORE_POINT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_CURRENT_XLOG_INSERT_LOCATION" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_CURRENT_XLOG_LOCATION" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_CURSOR" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_DATABASE_SIZE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_DESCRIBE_OBJECT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_DROP_REPLICATION_SLOT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_ENCODING_MAX_LENGTH" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_ENCODING_TO_CHAR" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_EVENT_TRIGGER_DROPPED_OBJECTS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_EXPORT_SNAPSHOT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_EXTENSION_CONFIG_DUMP" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_EXTENSION_UPDATE_PATHS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_FILENODE_RELATION" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_FUNCTION_IS_VISIBLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_CONSTRAINTDEF" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_EXPR" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_FUNCTION_ARG_DEFAULT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_FUNCTION_ARGUMENTS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_FUNCTION_IDENTITY_ARGUMENTS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_FUNCTION_RESULT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_FUNCTIONDEF" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_INDEXDEF" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_KEYWORDS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_MULTIXACT_MEMBERS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_REPLICATION_SLOTS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_RULEDEF" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_SERIAL_SEQUENCE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_TRIGGERDEF" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_USERBYID" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_GET_VIEWDEF" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_HAS_ROLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_IDENTIFY_OBJECT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_INDEXES_SIZE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_IS_IN_BACKUP" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_IS_IN_RECOVERY" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_IS_OTHER_TEMP_SCHEMA" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_IS_XLOG_REPLAY_PAUSED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LAST_XACT_REPLAY_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LAST_XLOG_RECEIVE_LOCATION" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LAST_XLOG_REPLAY_LOCATION" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LISTENING_CHANNELS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LOCK_STATUS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LOGICAL_SLOT_GET_BINARY_CHANGES" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LOGICAL_SLOT_GET_CHANGES" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LOGICAL_SLOT_PEEK_BINARY_CHANGES" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LOGICAL_SLOT_PEEK_CHANGES" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LS_DIR" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LSN_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LSN_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LSN_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LSN_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LSN_HASH" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LSN_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LSN_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LSN_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LSN_MI" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LSN_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LSN_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LSN_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_LSN_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_MY_TEMP_SCHEMA" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_NODE_TREE_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_NODE_TREE_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_NODE_TREE_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_NODE_TREE_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_NOTIFY" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_OPCLASS_IS_VISIBLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_OPERATOR_IS_VISIBLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_OPFAMILY_IS_VISIBLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_OPTIONS_TO_TABLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_POSTMASTER_START_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_PREPARED_STATEMENT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_PREPARED_XACT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_READ_BINARY_FILE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_READ_FILE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_RELATION_FILENODE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_RELATION_FILEPATH" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_RELATION_IS_UPDATABLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_RELATION_SIZE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_RELOAD_CONF" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_ROTATE_LOGFILE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_SEQUENCE_PARAMETERS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_SHOW_ALL_SETTINGS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_SIZE_PRETTY" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_SLEEP" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_SLEEP_FOR" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_SLEEP_UNTIL" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_START_BACKUP" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_CLEAR_SNAPSHOT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_FILE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_ACTIVITY" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_ANALYZE_COUNT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_ARCHIVER" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_AUTOANALYZE_COUNT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_AUTOVACUUM_COUNT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BACKEND_ACTIVITY" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BACKEND_ACTIVITY_START" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BACKEND_CLIENT_ADDR" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BACKEND_CLIENT_PORT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BACKEND_DBID" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BACKEND_IDSET" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BACKEND_PID" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BACKEND_START" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BACKEND_USERID" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BACKEND_WAITING" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BACKEND_XACT_START" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BGWRITER_BUF_WRITTEN_CHECKPOINTS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BGWRITER_BUF_WRITTEN_CLEAN" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BGWRITER_MAXWRITTEN_CLEAN" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BGWRITER_REQUESTED_CHECKPOINTS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BGWRITER_STAT_RESET_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BGWRITER_TIMED_CHECKPOINTS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BLOCKS_FETCHED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BLOCKS_HIT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BUF_ALLOC" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BUF_FSYNC_BACKEND" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_BUF_WRITTEN_BACKEND" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_CHECKPOINT_SYNC_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_CHECKPOINT_WRITE_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_BLK_READ_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_BLK_WRITE_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_BLOCKS_FETCHED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_BLOCKS_HIT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_CONFLICT_ALL" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_CONFLICT_BUFFERPIN" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_CONFLICT_LOCK" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_CONFLICT_SNAPSHOT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_CONFLICT_STARTUP_DEADLOCK" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_CONFLICT_TABLESPACE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_DEADLOCKS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_NUMBACKENDS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_STAT_RESET_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_TEMP_BYTES" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_TEMP_FILES" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_TUPLES_DELETED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_TUPLES_FETCHED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_TUPLES_INSERTED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_TUPLES_RETURNED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_TUPLES_UPDATED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_XACT_COMMIT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DB_XACT_ROLLBACK" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_DEAD_TUPLES" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_FUNCTION_CALLS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_FUNCTION_SELF_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_FUNCTION_TOTAL_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_LAST_ANALYZE_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_LAST_AUTOANALYZE_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_LAST_AUTOVACUUM_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_LAST_VACUUM_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_LIVE_TUPLES" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_MOD_SINCE_ANALYZE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_NUMSCANS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_TUPLES_DELETED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_TUPLES_FETCHED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_TUPLES_HOT_UPDATED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_TUPLES_INSERTED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_TUPLES_RETURNED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_TUPLES_UPDATED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_VACUUM_COUNT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_WAL_SENDERS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_XACT_BLOCKS_FETCHED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_XACT_BLOCKS_HIT" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_XACT_FUNCTION_CALLS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_XACT_FUNCTION_SELF_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_XACT_FUNCTION_TOTAL_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_XACT_NUMSCANS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_XACT_TUPLES_DELETED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_XACT_TUPLES_FETCHED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_XACT_TUPLES_HOT_UPDATED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_XACT_TUPLES_INSERTED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_XACT_TUPLES_RETURNED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_GET_XACT_TUPLES_UPDATED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_RESET" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_RESET_SHARED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_RESET_SINGLE_FUNCTION_COUNTERS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STAT_RESET_SINGLE_TABLE_COUNTERS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_STOP_BACKUP" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_SWITCH_XLOG" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TABLE_IS_VISIBLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TABLE_SIZE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TABLESPACE_DATABASES" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TABLESPACE_LOCATION" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TABLESPACE_SIZE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TERMINATE_BACKEND" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TIMEZONE_ABBREVS" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TIMEZONE_NAMES" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TOTAL_RELATION_SIZE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TRIGGER_DEPTH" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TRY_ADVISORY_LOCK" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TRY_ADVISORY_LOCK_SHARED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TRY_ADVISORY_XACT_LOCK" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TRY_ADVISORY_XACT_LOCK_SHARED" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TS_CONFIG_IS_VISIBLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TS_DICT_IS_VISIBLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TS_PARSER_IS_VISIBLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TS_TEMPLATE_IS_VISIBLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TYPE_IS_VISIBLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_TYPEOF" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_XLOG_LOCATION_DIFF" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_XLOG_REPLAY_PAUSE" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_XLOG_REPLAY_RESUME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_XLOGFILE_NAME" : {
+    "descriptionMarkup" : ""
+  },
+  "PG_XLOGFILE_NAME_OFFSET" : {
+    "descriptionMarkup" : ""
+  },
+  "PI" : {
+    "descriptionMarkup" : ""
+  },
+  "PLAINTO_TSQUERY" : {
+    "descriptionMarkup" : ""
+  },
+  "PLPGSQL_CALL_HANDLER" : {
+    "descriptionMarkup" : ""
+  },
+  "PLPGSQL_INLINE_HANDLER" : {
+    "descriptionMarkup" : ""
+  },
+  "PLPGSQL_VALIDATOR" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_ABOVE" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_ADD" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_BELOW" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_DISTANCE" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_DIV" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_HORIZ" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_LEFT" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_MUL" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_RIGHT" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_SUB" : {
+    "descriptionMarkup" : ""
+  },
+  "POINT_VERT" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_ABOVE" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_BELOW" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_CENTER" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_CONTAIN" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_CONTAIN_PT" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_CONTAINED" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_DISTANCE" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_LEFT" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_NPOINTS" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_OVERABOVE" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_OVERBELOW" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_OVERLAP" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_OVERLEFT" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_OVERRIGHT" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_RIGHT" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_SAME" : {
+    "descriptionMarkup" : ""
+  },
+  "POLY_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "POLYGON" : {
+    "descriptionMarkup" : ""
+  },
+  "POPEN" : {
+    "descriptionMarkup" : ""
+  },
+  "POSITIONJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "POSITIONSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "POW" : {
+    "descriptionMarkup" : ""
+  },
+  "POWER" : {
+    "descriptionMarkup" : ""
+  },
+  "PRSD_END" : {
+    "descriptionMarkup" : ""
+  },
+  "PRSD_HEADLINE" : {
+    "descriptionMarkup" : ""
+  },
+  "PRSD_LEXTYPE" : {
+    "descriptionMarkup" : ""
+  },
+  "PRSD_NEXTTOKEN" : {
+    "descriptionMarkup" : ""
+  },
+  "PRSD_START" : {
+    "descriptionMarkup" : ""
+  },
+  "PT_CONTAINED_CIRCLE" : {
+    "descriptionMarkup" : ""
+  },
+  "PT_CONTAINED_POLY" : {
+    "descriptionMarkup" : ""
+  },
+  "QUERY_TO_XML" : {
+    "descriptionMarkup" : ""
+  },
+  "QUERY_TO_XML_AND_XMLSCHEMA" : {
+    "descriptionMarkup" : ""
+  },
+  "QUERY_TO_XMLSCHEMA" : {
+    "descriptionMarkup" : ""
+  },
+  "QUERYTREE" : {
+    "descriptionMarkup" : ""
+  },
+  "QUOTE_IDENT" : {
+    "descriptionMarkup" : ""
+  },
+  "QUOTE_LITERAL" : {
+    "descriptionMarkup" : ""
+  },
+  "QUOTE_NULLABLE" : {
+    "descriptionMarkup" : ""
+  },
+  "RADIANS" : {
+    "descriptionMarkup" : ""
+  },
+  "RADIUS" : {
+    "descriptionMarkup" : ""
+  },
+  "RANDOM" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_ADJACENT" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_AFTER" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_BEFORE" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_CONTAINED_BY" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_CONTAINS" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_CONTAINS_ELEM" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_GIST_COMPRESS" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_GIST_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_GIST_DECOMPRESS" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_GIST_PENALTY" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_GIST_PICKSPLIT" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_GIST_SAME" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_GIST_UNION" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_INTERSECT" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_MINUS" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_OVERLAPS" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_OVERLEFT" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_OVERRIGHT" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_TYPANALYZE" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGE_UNION" : {
+    "descriptionMarkup" : ""
+  },
+  "RANGESEL" : {
+    "descriptionMarkup" : ""
+  },
+  "RANK" : {
+    "descriptionMarkup" : ""
+  },
+  "RANK_FINAL" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_IMAGE_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_IMAGE_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_IMAGE_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_IMAGE_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_IMAGE_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_IMAGE_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "RECORD_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "REGCLASS" : {
+    "descriptionMarkup" : ""
+  },
+  "REGCLASSIN" : {
+    "descriptionMarkup" : ""
+  },
+  "REGCLASSOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "REGCLASSRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "REGCLASSSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "REGCONFIGIN" : {
+    "descriptionMarkup" : ""
+  },
+  "REGCONFIGOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "REGCONFIGRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "REGCONFIGSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "REGDICTIONARYIN" : {
+    "descriptionMarkup" : ""
+  },
+  "REGDICTIONARYOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "REGDICTIONARYRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "REGDICTIONARYSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "REGEXEQJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "REGEXEQSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "REGEXNEJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "REGEXNESEL" : {
+    "descriptionMarkup" : ""
+  },
+  "REGEXP_MATCHES" : {
+    "descriptionMarkup" : ""
+  },
+  "REGEXP_REPLACE" : {
+    "descriptionMarkup" : ""
+  },
+  "REGEXP_SPLIT_TO_ARRAY" : {
+    "descriptionMarkup" : ""
+  },
+  "REGEXP_SPLIT_TO_TABLE" : {
+    "descriptionMarkup" : ""
+  },
+  "REGOPERATORIN" : {
+    "descriptionMarkup" : ""
+  },
+  "REGOPERATOROUT" : {
+    "descriptionMarkup" : ""
+  },
+  "REGOPERATORRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "REGOPERATORSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "REGOPERIN" : {
+    "descriptionMarkup" : ""
+  },
+  "REGOPEROUT" : {
+    "descriptionMarkup" : ""
+  },
+  "REGOPERRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "REGOPERSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "REGPROCEDUREIN" : {
+    "descriptionMarkup" : ""
+  },
+  "REGPROCEDUREOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "REGPROCEDURERECV" : {
+    "descriptionMarkup" : ""
+  },
+  "REGPROCEDURESEND" : {
+    "descriptionMarkup" : ""
+  },
+  "REGPROCIN" : {
+    "descriptionMarkup" : ""
+  },
+  "REGPROCOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "REGPROCRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "REGPROCSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "REGR_AVGX" : {
+    "descriptionMarkup" : ""
+  },
+  "REGR_AVGY" : {
+    "descriptionMarkup" : ""
+  },
+  "REGR_COUNT" : {
+    "descriptionMarkup" : ""
+  },
+  "REGR_INTERCEPT" : {
+    "descriptionMarkup" : ""
+  },
+  "REGR_R2" : {
+    "descriptionMarkup" : ""
+  },
+  "REGR_SLOPE" : {
+    "descriptionMarkup" : ""
+  },
+  "REGR_SXX" : {
+    "descriptionMarkup" : ""
+  },
+  "REGR_SXY" : {
+    "descriptionMarkup" : ""
+  },
+  "REGR_SYY" : {
+    "descriptionMarkup" : ""
+  },
+  "REGTYPEIN" : {
+    "descriptionMarkup" : ""
+  },
+  "REGTYPEOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "REGTYPERECV" : {
+    "descriptionMarkup" : ""
+  },
+  "REGTYPESEND" : {
+    "descriptionMarkup" : ""
+  },
+  "RELTIME" : {
+    "descriptionMarkup" : ""
+  },
+  "RELTIMEEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "RELTIMEGE" : {
+    "descriptionMarkup" : ""
+  },
+  "RELTIMEGT" : {
+    "descriptionMarkup" : ""
+  },
+  "RELTIMEIN" : {
+    "descriptionMarkup" : ""
+  },
+  "RELTIMELE" : {
+    "descriptionMarkup" : ""
+  },
+  "RELTIMELT" : {
+    "descriptionMarkup" : ""
+  },
+  "RELTIMENE" : {
+    "descriptionMarkup" : ""
+  },
+  "RELTIMEOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "RELTIMERECV" : {
+    "descriptionMarkup" : ""
+  },
+  "RELTIMESEND" : {
+    "descriptionMarkup" : ""
+  },
+  "REPEAT" : {
+    "descriptionMarkup" : ""
+  },
+  "REPLACE" : {
+    "descriptionMarkup" : ""
+  },
+  "REVERSE" : {
+    "descriptionMarkup" : ""
+  },
+  "ROUND" : {
+    "descriptionMarkup" : ""
+  },
+  "ROW_NUMBER" : {
+    "descriptionMarkup" : ""
+  },
+  "ROW_TO_JSON" : {
+    "descriptionMarkup" : ""
+  },
+  "RPAD" : {
+    "descriptionMarkup" : ""
+  },
+  "RTRIM" : {
+    "descriptionMarkup" : ""
+  },
+  "SCALARGTJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "SCALARGTSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "SCALARLTJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "SCALARLTSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "SCHEMA_TO_XML" : {
+    "descriptionMarkup" : ""
+  },
+  "SCHEMA_TO_XML_AND_XMLSCHEMA" : {
+    "descriptionMarkup" : ""
+  },
+  "SCHEMA_TO_XMLSCHEMA" : {
+    "descriptionMarkup" : ""
+  },
+  "SET_BIT" : {
+    "descriptionMarkup" : ""
+  },
+  "SET_BYTE" : {
+    "descriptionMarkup" : ""
+  },
+  "SET_CONFIG" : {
+    "descriptionMarkup" : ""
+  },
+  "SET_MASKLEN" : {
+    "descriptionMarkup" : ""
+  },
+  "SETSEED" : {
+    "descriptionMarkup" : ""
+  },
+  "SETVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "SETWEIGHT" : {
+    "descriptionMarkup" : ""
+  },
+  "SHELL_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "SHELL_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "SHIFT_JIS_2004_TO_EUC_JIS_2004" : {
+    "descriptionMarkup" : ""
+  },
+  "SHIFT_JIS_2004_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "SHOBJ_DESCRIPTION" : {
+    "descriptionMarkup" : ""
+  },
+  "SIGN" : {
+    "descriptionMarkup" : ""
+  },
+  "SIMILAR_ESCAPE" : {
+    "descriptionMarkup" : ""
+  },
+  "SIN" : {
+    "descriptionMarkup" : ""
+  },
+  "SJIS_TO_EUC_JP" : {
+    "descriptionMarkup" : ""
+  },
+  "SJIS_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "SJIS_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "SLOPE" : {
+    "descriptionMarkup" : ""
+  },
+  "SMGREQ" : {
+    "descriptionMarkup" : ""
+  },
+  "SMGRIN" : {
+    "descriptionMarkup" : ""
+  },
+  "SMGRNE" : {
+    "descriptionMarkup" : ""
+  },
+  "SMGROUT" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_KD_CHOOSE" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_KD_CONFIG" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_KD_INNER_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_KD_PICKSPLIT" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_QUAD_CHOOSE" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_QUAD_CONFIG" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_QUAD_INNER_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_QUAD_LEAF_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_QUAD_PICKSPLIT" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_RANGE_QUAD_CHOOSE" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_RANGE_QUAD_CONFIG" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_RANGE_QUAD_INNER_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_RANGE_QUAD_LEAF_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_RANGE_QUAD_PICKSPLIT" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_TEXT_CHOOSE" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_TEXT_CONFIG" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_TEXT_INNER_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_TEXT_LEAF_CONSISTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "SPG_TEXT_PICKSPLIT" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGBEGINSCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGBUILD" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGBUILDEMPTY" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGBULKDELETE" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGCANRETURN" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGCOSTESTIMATE" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGENDSCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGGETBITMAP" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGGETTUPLE" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGINSERT" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGMARKPOS" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGOPTIONS" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGRESCAN" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGRESTRPOS" : {
+    "descriptionMarkup" : ""
+  },
+  "SPGVACUUMCLEANUP" : {
+    "descriptionMarkup" : ""
+  },
+  "SPLIT_PART" : {
+    "descriptionMarkup" : ""
+  },
+  "SQRT" : {
+    "descriptionMarkup" : ""
+  },
+  "STATEMENT_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "STDDEV" : {
+    "descriptionMarkup" : ""
+  },
+  "STDDEV_POP" : {
+    "descriptionMarkup" : ""
+  },
+  "STDDEV_SAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "STRING_AGG" : {
+    "descriptionMarkup" : ""
+  },
+  "STRING_AGG_FINALFN" : {
+    "descriptionMarkup" : ""
+  },
+  "STRING_AGG_TRANSFN" : {
+    "descriptionMarkup" : ""
+  },
+  "STRING_TO_ARRAY" : {
+    "descriptionMarkup" : ""
+  },
+  "STRIP" : {
+    "descriptionMarkup" : ""
+  },
+  "STRPOS" : {
+    "descriptionMarkup" : ""
+  },
+  "SUBSTR" : {
+    "descriptionMarkup" : ""
+  },
+  "SUM" : {
+    "descriptionMarkup" : ""
+  },
+  "SUPPRESS_REDUNDANT_UPDATES_TRIGGER" : {
+    "descriptionMarkup" : ""
+  },
+  "TABLE_TO_XML" : {
+    "descriptionMarkup" : ""
+  },
+  "TABLE_TO_XML_AND_XMLSCHEMA" : {
+    "descriptionMarkup" : ""
+  },
+  "TABLE_TO_XMLSCHEMA" : {
+    "descriptionMarkup" : ""
+  },
+  "TAN" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXT" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXT_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXT_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXT_LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXT_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXT_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXT_PATTERN_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXT_PATTERN_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXT_PATTERN_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXT_PATTERN_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXT_SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTANYCAT" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTCAT" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTICLIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTICNLIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTICREGEXEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTICREGEXNE" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTIN" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTLEN" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTLIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTNE" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTNLIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTREGEXEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTREGEXNE" : {
+    "descriptionMarkup" : ""
+  },
+  "TEXTSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "THESAURUS_INIT" : {
+    "descriptionMarkup" : ""
+  },
+  "THESAURUS_LEXIZE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIDEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "TIDGE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIDGT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIDIN" : {
+    "descriptionMarkup" : ""
+  },
+  "TIDLARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "TIDLE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIDLT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIDNE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIDOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIDRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "TIDSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "TIDSMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_HASH" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_MI_INTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_MI_TIME" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_PL_INTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "TIME_TRANSFORM" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMEDATE_PL" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMEMI" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMENOW" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMEOFDAY" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMEPL" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_CMP_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_CMP_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_EQ_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_EQ_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_GE_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_GE_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_GT_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_GT_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_HASH" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_LE_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_LE_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_LT_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_LT_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_MI" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_MI_INTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_NE_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_NE_TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_PL_INTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_SORTSUPPORT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMP_TRANSFORM" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTYPMODIN" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTYPMODOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_CMP_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_CMP_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_EQ_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_EQ_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_GE_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_GE_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_GT_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_GT_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_LE_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_LE_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_LT_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_LT_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_MI" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_MI_INTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_NE_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_NE_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_PL_INTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZ_SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZTYPMODIN" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMESTAMPTZTYPMODOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETYPMODIN" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETYPMODOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_HASH" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_LARGER" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_MI_INTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_PL_INTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZ_SMALLER" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZDATE_PL" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZTYPMODIN" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMETZTYPMODOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TIMEZONE" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVAL" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALCT" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALEND" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALGE" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALGT" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALIN" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALLE" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALLENEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALLENGE" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALLENGT" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALLENLE" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALLENLT" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALLENNE" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALLT" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALNE" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALOV" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALREL" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALSAME" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "TINTERVALSTART" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_ASCII" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_CHAR" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_HEX" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_JSON" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_NUMBER" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_REGCLASS" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_REGOPER" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_REGOPERATOR" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_REGPROC" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_REGPROCEDURE" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_REGTYPE" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_TSQUERY" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_TSVECTOR" : {
+    "descriptionMarkup" : ""
+  },
+  "TRANSACTION_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TRANSLATE" : {
+    "descriptionMarkup" : ""
+  },
+  "TRIGGER_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "TRIGGER_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TRUNC" : {
+    "descriptionMarkup" : ""
+  },
+  "TS_DEBUG" : {
+    "descriptionMarkup" : ""
+  },
+  "TS_HEADLINE" : {
+    "descriptionMarkup" : ""
+  },
+  "TS_LEXIZE" : {
+    "descriptionMarkup" : ""
+  },
+  "TS_MATCH_QV" : {
+    "descriptionMarkup" : ""
+  },
+  "TS_MATCH_TQ" : {
+    "descriptionMarkup" : ""
+  },
+  "TS_MATCH_TT" : {
+    "descriptionMarkup" : ""
+  },
+  "TS_MATCH_VQ" : {
+    "descriptionMarkup" : ""
+  },
+  "TS_PARSE" : {
+    "descriptionMarkup" : ""
+  },
+  "TS_RANK" : {
+    "descriptionMarkup" : ""
+  },
+  "TS_RANK_CD" : {
+    "descriptionMarkup" : ""
+  },
+  "TS_REWRITE" : {
+    "descriptionMarkup" : ""
+  },
+  "TS_STAT" : {
+    "descriptionMarkup" : ""
+  },
+  "TS_TOKEN_TYPE" : {
+    "descriptionMarkup" : ""
+  },
+  "TS_TYPANALYZE" : {
+    "descriptionMarkup" : ""
+  },
+  "TSMATCHJOINSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "TSMATCHSEL" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQ_MCONTAINED" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQ_MCONTAINS" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQUERY_AND" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQUERY_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQUERY_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQUERY_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQUERY_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQUERY_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQUERY_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQUERY_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQUERY_NOT" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQUERY_OR" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQUERYIN" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQUERYOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQUERYRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "TSQUERYSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "TSRANGE" : {
+    "descriptionMarkup" : ""
+  },
+  "TSRANGE_SUBDIFF" : {
+    "descriptionMarkup" : ""
+  },
+  "TSTZRANGE" : {
+    "descriptionMarkup" : ""
+  },
+  "TSTZRANGE_SUBDIFF" : {
+    "descriptionMarkup" : ""
+  },
+  "TSVECTOR_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "TSVECTOR_CONCAT" : {
+    "descriptionMarkup" : ""
+  },
+  "TSVECTOR_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "TSVECTOR_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "TSVECTOR_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "TSVECTOR_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "TSVECTOR_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "TSVECTOR_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "TSVECTOR_UPDATE_TRIGGER" : {
+    "descriptionMarkup" : ""
+  },
+  "TSVECTOR_UPDATE_TRIGGER_COLUMN" : {
+    "descriptionMarkup" : ""
+  },
+  "TSVECTORIN" : {
+    "descriptionMarkup" : ""
+  },
+  "TSVECTOROUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TSVECTORRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "TSVECTORSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "TXID_CURRENT" : {
+    "descriptionMarkup" : ""
+  },
+  "TXID_CURRENT_SNAPSHOT" : {
+    "descriptionMarkup" : ""
+  },
+  "TXID_SNAPSHOT_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "TXID_SNAPSHOT_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "TXID_SNAPSHOT_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "TXID_SNAPSHOT_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "TXID_SNAPSHOT_XIP" : {
+    "descriptionMarkup" : ""
+  },
+  "TXID_SNAPSHOT_XMAX" : {
+    "descriptionMarkup" : ""
+  },
+  "TXID_SNAPSHOT_XMIN" : {
+    "descriptionMarkup" : ""
+  },
+  "TXID_VISIBLE_IN_SNAPSHOT" : {
+    "descriptionMarkup" : ""
+  },
+  "UHC_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "UNIQUE_KEY_RECHECK" : {
+    "descriptionMarkup" : ""
+  },
+  "UNKNOWNIN" : {
+    "descriptionMarkup" : ""
+  },
+  "UNKNOWNOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "UNKNOWNRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "UNKNOWNSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "UNNEST" : {
+    "descriptionMarkup" : ""
+  },
+  "UPPER" : {
+    "descriptionMarkup" : ""
+  },
+  "UPPER_INC" : {
+    "descriptionMarkup" : ""
+  },
+  "UPPER_INF" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_ASCII" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_BIG5" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_EUC_CN" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_EUC_JIS_2004" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_EUC_JP" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_EUC_KR" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_EUC_TW" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_GB18030" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_GBK" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_ISO8859" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_ISO8859_1" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_JOHAB" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_KOI8R" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_KOI8U" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_SHIFT_JIS_2004" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_SJIS" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_UHC" : {
+    "descriptionMarkup" : ""
+  },
+  "UTF8_TO_WIN" : {
+    "descriptionMarkup" : ""
+  },
+  "UUID_CMP" : {
+    "descriptionMarkup" : ""
+  },
+  "UUID_EQ" : {
+    "descriptionMarkup" : ""
+  },
+  "UUID_GE" : {
+    "descriptionMarkup" : ""
+  },
+  "UUID_GT" : {
+    "descriptionMarkup" : ""
+  },
+  "UUID_HASH" : {
+    "descriptionMarkup" : ""
+  },
+  "UUID_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "UUID_LE" : {
+    "descriptionMarkup" : ""
+  },
+  "UUID_LT" : {
+    "descriptionMarkup" : ""
+  },
+  "UUID_NE" : {
+    "descriptionMarkup" : ""
+  },
+  "UUID_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "UUID_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "UUID_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "VAR_POP" : {
+    "descriptionMarkup" : ""
+  },
+  "VAR_SAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBIT" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBIT_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBIT_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBIT_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBIT_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBIT_TRANSFORM" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBITCMP" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBITEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBITGE" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBITGT" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBITLE" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBITLT" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBITNE" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBITTYPMODIN" : {
+    "descriptionMarkup" : ""
+  },
+  "VARBITTYPMODOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "VARCHAR_TRANSFORM" : {
+    "descriptionMarkup" : ""
+  },
+  "VARCHARIN" : {
+    "descriptionMarkup" : ""
+  },
+  "VARCHAROUT" : {
+    "descriptionMarkup" : ""
+  },
+  "VARCHARRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "VARCHARSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "VARCHARTYPMODIN" : {
+    "descriptionMarkup" : ""
+  },
+  "VARCHARTYPMODOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "VARIANCE" : {
+    "descriptionMarkup" : ""
+  },
+  "VERSION" : {
+    "descriptionMarkup" : ""
+  },
+  "VOID_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "VOID_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "VOID_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "VOID_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "WIDTH" : {
+    "descriptionMarkup" : ""
+  },
+  "WIDTH_BUCKET" : {
+    "descriptionMarkup" : ""
+  },
+  "WIN_TO_UTF8" : {
+    "descriptionMarkup" : ""
+  },
+  "WIN866_TO_ISO" : {
+    "descriptionMarkup" : ""
+  },
+  "WIN866_TO_KOI8R" : {
+    "descriptionMarkup" : ""
+  },
+  "WIN866_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "WIN866_TO_WIN1251" : {
+    "descriptionMarkup" : ""
+  },
+  "WIN1250_TO_LATIN2" : {
+    "descriptionMarkup" : ""
+  },
+  "WIN1250_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "WIN1251_TO_ISO" : {
+    "descriptionMarkup" : ""
+  },
+  "WIN1251_TO_KOI8R" : {
+    "descriptionMarkup" : ""
+  },
+  "WIN1251_TO_MIC" : {
+    "descriptionMarkup" : ""
+  },
+  "WIN1251_TO_WIN866" : {
+    "descriptionMarkup" : ""
+  },
+  "XIDEQ" : {
+    "descriptionMarkup" : ""
+  },
+  "XIDEQINT4" : {
+    "descriptionMarkup" : ""
+  },
+  "XIDIN" : {
+    "descriptionMarkup" : ""
+  },
+  "XIDOUT" : {
+    "descriptionMarkup" : ""
+  },
+  "XIDRECV" : {
+    "descriptionMarkup" : ""
+  },
+  "XIDSEND" : {
+    "descriptionMarkup" : ""
+  },
+  "XML" : {
+    "descriptionMarkup" : ""
+  },
+  "XML_IN" : {
+    "descriptionMarkup" : ""
+  },
+  "XML_IS_WELL_FORMED" : {
+    "descriptionMarkup" : ""
+  },
+  "XML_IS_WELL_FORMED_CONTENT" : {
+    "descriptionMarkup" : ""
+  },
+  "XML_IS_WELL_FORMED_DOCUMENT" : {
+    "descriptionMarkup" : ""
+  },
+  "XML_OUT" : {
+    "descriptionMarkup" : ""
+  },
+  "XML_RECV" : {
+    "descriptionMarkup" : ""
+  },
+  "XML_SEND" : {
+    "descriptionMarkup" : ""
+  },
+  "XMLAGG" : {
+    "descriptionMarkup" : ""
+  },
+  "XMLCOMMENT" : {
+    "descriptionMarkup" : ""
+  },
+  "XMLCONCAT2" : {
+    "descriptionMarkup" : ""
+  },
+  "XMLVALIDATE" : {
+    "descriptionMarkup" : ""
+  },
+  "XPATH" : {
+    "descriptionMarkup" : ""
+  },
+  "XPATH_EXISTS" : {
+    "descriptionMarkup" : ""
+  }
+}

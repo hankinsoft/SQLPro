@@ -1,0 +1,131 @@
+{
+  "ASCII" : {
+    "descriptionMarkup" : ""
+  },
+  "CAST" : {
+    "descriptionMarkup" : ""
+  },
+  "CHAR" : {
+    "descriptionMarkup" : ""
+  },
+  "CHARINDEX" : {
+    "descriptionMarkup" : ""
+  },
+  "CONCAT" : {
+    "descriptionMarkup" : ""
+  },
+  "CONTAINS" : {
+    "descriptionMarkup" : ""
+  },
+  "CONVERT" : {
+    "descriptionMarkup" : ""
+  },
+  "COUNT" : {
+    "descriptionMarkup" : ""
+  },
+  "COUNT_BIG" : {
+    "descriptionMarkup" : ""
+  },
+  "CURRENT_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "DATEDIFF" : {
+    "descriptionMarkup" : ""
+  },
+  "DIFFERENCE" : {
+    "descriptionMarkup" : ""
+  },
+  "FORMAT" : {
+    "descriptionMarkup" : ""
+  },
+  "GETANCESTOR" : {
+    "descriptionMarkup" : ""
+  },
+  "GETDATE" : {
+    "descriptionMarkup" : ""
+  },
+  "GETUTCDATE" : {
+    "descriptionMarkup" : ""
+  },
+  "IIF" : {
+    "descriptionMarkup" : ""
+  },
+  "LEN" : {
+    "descriptionMarkup" : ""
+  },
+  "LOWER" : {
+    "descriptionMarkup" : ""
+  },
+  "LTRIM" : {
+    "descriptionMarkup" : ""
+  },
+  "MAX" : {
+    "descriptionMarkup" : ""
+  },
+  "NEWID" : {
+    "descriptionMarkup" : ""
+  },
+  "OBJECT_DEFINITION" : {
+    "descriptionMarkup" : ""
+  },
+  "OBJECT_ID" : {
+    "descriptionMarkup" : ""
+  },
+  "OBJECTPROPERTY" : {
+    "descriptionMarkup" : ""
+  },
+  "PATINDEX" : {
+    "descriptionMarkup" : ""
+  },
+  "QUOTENAME" : {
+    "descriptionMarkup" : ""
+  },
+  "REPLACE" : {
+    "descriptionMarkup" : ""
+  },
+  "REVERES" : {
+    "descriptionMarkup" : ""
+  },
+  "ROUND" : {
+    "descriptionMarkup" : ""
+  },
+  "RTRIM" : {
+    "descriptionMarkup" : ""
+  },
+  "SOUNDEX" : {
+    "descriptionMarkup" : ""
+  },
+  "SPACE" : {
+    "descriptionMarkup" : ""
+  },
+  "STR" : {
+    "descriptionMarkup" : ""
+  },
+  "STUFF" : {
+    "descriptionMarkup" : ""
+  },
+  "SUBSTRING" : {
+    "descriptionMarkup" : ""
+  },
+  "SUM" : {
+    "descriptionMarkup" : ""
+  },
+  "SYSDATETIME" : {
+    "descriptionMarkup" : ""
+  },
+  "SYSDATETIMEOFFSET" : {
+    "descriptionMarkup" : ""
+  },
+  "SYSUTCDATETIME" : {
+    "descriptionMarkup" : ""
+  },
+  "TOSTRING" : {
+    "descriptionMarkup" : ""
+  },
+  "UNICODE" : {
+    "descriptionMarkup" : ""
+  },
+  "UPPER" : {
+    "descriptionMarkup" : ""
+  }
+}

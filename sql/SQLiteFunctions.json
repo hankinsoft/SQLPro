@@ -1,0 +1,119 @@
+{
+  "ABS" : {
+    "descriptionMarkup" : ""
+  },
+  "AVG" : {
+    "descriptionMarkup" : ""
+  },
+  "CHANGES" : {
+    "descriptionMarkup" : ""
+  },
+  "CHAR" : {
+    "descriptionMarkup" : ""
+  },
+  "COALESCE" : {
+    "descriptionMarkup" : ""
+  },
+  "COUNT" : {
+    "descriptionMarkup" : ""
+  },
+  "GLOB" : {
+    "descriptionMarkup" : ""
+  },
+  "HEX" : {
+    "descriptionMarkup" : ""
+  },
+  "IFNULL" : {
+    "descriptionMarkup" : ""
+  },
+  "INSTR" : {
+    "descriptionMarkup" : ""
+  },
+  "LAST_INSERT_ROWID" : {
+    "descriptionMarkup" : ""
+  },
+  "LENGTH" : {
+    "descriptionMarkup" : ""
+  },
+  "LIKE" : {
+    "descriptionMarkup" : ""
+  },
+  "LIKELIHOOD" : {
+    "descriptionMarkup" : ""
+  },
+  "LIKELY" : {
+    "descriptionMarkup" : ""
+  },
+  "LOWER" : {
+    "descriptionMarkup" : ""
+  },
+  "LTRIM" : {
+    "descriptionMarkup" : ""
+  },
+  "MAX" : {
+    "descriptionMarkup" : ""
+  },
+  "MIN" : {
+    "descriptionMarkup" : ""
+  },
+  "NULLIF" : {
+    "descriptionMarkup" : ""
+  },
+  "PRINTIF" : {
+    "descriptionMarkup" : ""
+  },
+  "QUOTE" : {
+    "descriptionMarkup" : ""
+  },
+  "RANDOM" : {
+    "descriptionMarkup" : ""
+  },
+  "RANDOMBLOB" : {
+    "descriptionMarkup" : ""
+  },
+  "REPLACE" : {
+    "descriptionMarkup" : ""
+  },
+  "ROUND" : {
+    "descriptionMarkup" : ""
+  },
+  "RTRIM" : {
+    "descriptionMarkup" : ""
+  },
+  "SOUNDEX" : {
+    "descriptionMarkup" : ""
+  },
+  "SQLITE_SOURCE_ID" : {
+    "descriptionMarkup" : ""
+  },
+  "SQLITE_VERSION" : {
+    "descriptionMarkup" : ""
+  },
+  "SUBSTR" : {
+    "descriptionMarkup" : ""
+  },
+  "SUM" : {
+    "descriptionMarkup" : ""
+  },
+  "TOTAL_CHANGES" : {
+    "descriptionMarkup" : ""
+  },
+  "TRIM" : {
+    "descriptionMarkup" : ""
+  },
+  "TYPEOF" : {
+    "descriptionMarkup" : ""
+  },
+  "UNICODE" : {
+    "descriptionMarkup" : ""
+  },
+  "UNLIKELY" : {
+    "descriptionMarkup" : ""
+  },
+  "UPPER" : {
+    "descriptionMarkup" : ""
+  },
+  "ZEROBLOB" : {
+    "descriptionMarkup" : ""
+  }
+}

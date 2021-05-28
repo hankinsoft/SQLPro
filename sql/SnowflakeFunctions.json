@@ -1,0 +1,161 @@
+{
+  "ASCII" : {
+    "descriptionMarkup" : ""
+  },
+  "CAST" : {
+    "descriptionMarkup" : ""
+  },
+  "CHAR" : {
+    "descriptionMarkup" : ""
+  },
+  "CHARINDEX" : {
+    "descriptionMarkup" : ""
+  },
+  "COALESCE" : {
+    "descriptionMarkup" : ""
+  },
+  "CONCAT" : {
+    "descriptionMarkup" : ""
+  },
+  "CONTAINS" : {
+    "descriptionMarkup" : ""
+  },
+  "CONVERT" : {
+    "descriptionMarkup" : ""
+  },
+  "CONVERT_TIMEZONE" : {
+    "descriptionMarkup" : ""
+  },
+  "COUNT" : {
+    "descriptionMarkup" : ""
+  },
+  "COUNT_BIG" : {
+    "descriptionMarkup" : ""
+  },
+  "CURRENT_DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "CURRENT_SCHEMAS" : {
+    "descriptionMarkup" : ""
+  },
+  "CURRENT_TIMESTAMP" : {
+    "descriptionMarkup" : ""
+  },
+  "DATEDIFF" : {
+    "descriptionMarkup" : ""
+  },
+  "DIFFERENCE" : {
+    "descriptionMarkup" : ""
+  },
+  "FORMAT" : {
+    "descriptionMarkup" : ""
+  },
+  "GET_DDL" : {
+    "descriptionMarkup" : ""
+  },
+  "GETANCESTOR" : {
+    "descriptionMarkup" : ""
+  },
+  "GETDATE" : {
+    "descriptionMarkup" : ""
+  },
+  "GETUTCDATE" : {
+    "descriptionMarkup" : ""
+  },
+  "IIF" : {
+    "descriptionMarkup" : ""
+  },
+  "LEN" : {
+    "descriptionMarkup" : ""
+  },
+  "LOWER" : {
+    "descriptionMarkup" : ""
+  },
+  "LTRIM" : {
+    "descriptionMarkup" : ""
+  },
+  "MAX" : {
+    "descriptionMarkup" : ""
+  },
+  "MIN" : {
+    "descriptionMarkup" : ""
+  },
+  "NEWID" : {
+    "descriptionMarkup" : ""
+  },
+  "OBJECT_DEFINITION" : {
+    "descriptionMarkup" : ""
+  },
+  "OBJECT_ID" : {
+    "descriptionMarkup" : ""
+  },
+  "OBJECTPROPERTY" : {
+    "descriptionMarkup" : ""
+  },
+  "OVER" : {
+    "descriptionMarkup" : ""
+  },
+  "PATINDEX" : {
+    "descriptionMarkup" : ""
+  },
+  "QUOTENAME" : {
+    "descriptionMarkup" : ""
+  },
+  "REPLACE" : {
+    "descriptionMarkup" : ""
+  },
+  "REVERES" : {
+    "descriptionMarkup" : ""
+  },
+  "RTRIM" : {
+    "descriptionMarkup" : ""
+  },
+  "SOUNDEX" : {
+    "descriptionMarkup" : ""
+  },
+  "SPACE" : {
+    "descriptionMarkup" : ""
+  },
+  "STR" : {
+    "descriptionMarkup" : ""
+  },
+  "STUFF" : {
+    "descriptionMarkup" : ""
+  },
+  "SUBSTRING" : {
+    "descriptionMarkup" : ""
+  },
+  "SUM" : {
+    "descriptionMarkup" : ""
+  },
+  "SYSDATETIME" : {
+    "descriptionMarkup" : ""
+  },
+  "SYSDATETIMEOFFSET" : {
+    "descriptionMarkup" : ""
+  },
+  "SYSUTCDATETIME" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_TIMESTAMP_LTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_TIMESTAMP_NTZ" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_TIMESTAMP_TZ" : {
+    "descriptionMarkup" : ""
+  },
+  "TOSTRING" : {
+    "descriptionMarkup" : ""
+  },
+  "UNICODE" : {
+    "descriptionMarkup" : ""
+  },
+  "UPPER" : {
+    "descriptionMarkup" : ""
+  },
+  "ZEROIFNULL" : {
+    "descriptionMarkup" : ""
+  }
+}

@@ -10,6 +10,16 @@
 		7257CCD626611D1100E68C17 /* SQLProKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCD526611D1100E68C17 /* SQLProKeywords.json */; };
 		7257CCD926611D6400E68C17 /* SQLProKeywordsHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 7257CCD726611D6400E68C17 /* SQLProKeywordsHelper.m */; };
 		7257CCDA26611D6400E68C17 /* SQLProKeywordsHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 7257CCD826611D6400E68C17 /* SQLProKeywordsHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7257CCF126611FA600E68C17 /* SnowflakeFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCEF26611FA600E68C17 /* SnowflakeFunctions.json */; };
+		7257CCF226611FA600E68C17 /* SnowflakeKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCF026611FA600E68C17 /* SnowflakeKeywords.json */; };
+		7257CCF72661200600E68C17 /* PostgresFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCF52661200600E68C17 /* PostgresFunctions.json */; };
+		7257CCF82661200600E68C17 /* PostgresKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCF62661200600E68C17 /* PostgresKeywords.json */; };
+		7257CCFB266121D800E68C17 /* SQLiteFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCF9266121D800E68C17 /* SQLiteFunctions.json */; };
+		7257CCFC266121D800E68C17 /* SQLiteKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCFA266121D800E68C17 /* SQLiteKeywords.json */; };
+		7257CD01266121E400E68C17 /* MSSQLKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCFD266121E400E68C17 /* MSSQLKeywords.json */; };
+		7257CD02266121E400E68C17 /* MongoKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCFE266121E400E68C17 /* MongoKeywords.json */; };
+		7257CD03266121E400E68C17 /* MongoFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCFF266121E400E68C17 /* MongoFunctions.json */; };
+		7257CD04266121E400E68C17 /* MSSQLFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CD00266121E400E68C17 /* MSSQLFunctions.json */; };
 		72BF3C7D2661190C007DB682 /* SQLProResources.h in Headers */ = {isa = PBXBuildFile; fileRef = 72BF3C7B2661190C007DB682 /* SQLProResources.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		72BF3C862661192E007DB682 /* MySQLFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 72BF3C842661192E007DB682 /* MySQLFunctions.json */; };
 		72BF3C872661192E007DB682 /* MySQLKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 72BF3C852661192E007DB682 /* MySQLKeywords.json */; };
@@ -19,6 +29,16 @@
 		7257CCD526611D1100E68C17 /* SQLProKeywords.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SQLProKeywords.json; sourceTree = "<group>"; };
 		7257CCD726611D6400E68C17 /* SQLProKeywordsHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SQLProKeywordsHelper.m; sourceTree = SOURCE_ROOT; };
 		7257CCD826611D6400E68C17 /* SQLProKeywordsHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SQLProKeywordsHelper.h; sourceTree = SOURCE_ROOT; };
+		7257CCEF26611FA600E68C17 /* SnowflakeFunctions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SnowflakeFunctions.json; sourceTree = "<group>"; };
+		7257CCF026611FA600E68C17 /* SnowflakeKeywords.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SnowflakeKeywords.json; sourceTree = "<group>"; };
+		7257CCF52661200600E68C17 /* PostgresFunctions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PostgresFunctions.json; sourceTree = "<group>"; };
+		7257CCF62661200600E68C17 /* PostgresKeywords.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PostgresKeywords.json; sourceTree = "<group>"; };
+		7257CCF9266121D800E68C17 /* SQLiteFunctions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SQLiteFunctions.json; sourceTree = "<group>"; };
+		7257CCFA266121D800E68C17 /* SQLiteKeywords.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SQLiteKeywords.json; sourceTree = "<group>"; };
+		7257CCFD266121E400E68C17 /* MSSQLKeywords.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MSSQLKeywords.json; sourceTree = "<group>"; };
+		7257CCFE266121E400E68C17 /* MongoKeywords.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MongoKeywords.json; sourceTree = "<group>"; };
+		7257CCFF266121E400E68C17 /* MongoFunctions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MongoFunctions.json; sourceTree = "<group>"; };
+		7257CD00266121E400E68C17 /* MSSQLFunctions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MSSQLFunctions.json; sourceTree = "<group>"; };
 		72BF3C782661190C007DB682 /* SQLProResources.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SQLProResources.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		72BF3C7B2661190C007DB682 /* SQLProResources.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SQLProResources.h; sourceTree = "<group>"; };
 		72BF3C7C2661190C007DB682 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -68,9 +88,19 @@
 		72BF3C8326611920007DB682 /* SQL */ = {
 			isa = PBXGroup;
 			children = (
-				7257CCD526611D1100E68C17 /* SQLProKeywords.json */,
+				7257CCFF266121E400E68C17 /* MongoFunctions.json */,
+				7257CCFE266121E400E68C17 /* MongoKeywords.json */,
+				7257CD00266121E400E68C17 /* MSSQLFunctions.json */,
+				7257CCFD266121E400E68C17 /* MSSQLKeywords.json */,
 				72BF3C842661192E007DB682 /* MySQLFunctions.json */,
 				72BF3C852661192E007DB682 /* MySQLKeywords.json */,
+				7257CCF52661200600E68C17 /* PostgresFunctions.json */,
+				7257CCF62661200600E68C17 /* PostgresKeywords.json */,
+				7257CCEF26611FA600E68C17 /* SnowflakeFunctions.json */,
+				7257CCF026611FA600E68C17 /* SnowflakeKeywords.json */,
+				7257CCF9266121D800E68C17 /* SQLiteFunctions.json */,
+				7257CCFA266121D800E68C17 /* SQLiteKeywords.json */,
+				7257CCD526611D1100E68C17 /* SQLProKeywords.json */,
 			);
 			name = SQL;
 			path = ../../sql;
@@ -145,9 +175,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7257CD01266121E400E68C17 /* MSSQLKeywords.json in Resources */,
+				7257CCF72661200600E68C17 /* PostgresFunctions.json in Resources */,
+				7257CCFC266121D800E68C17 /* SQLiteKeywords.json in Resources */,
 				7257CCD626611D1100E68C17 /* SQLProKeywords.json in Resources */,
+				7257CCF226611FA600E68C17 /* SnowflakeKeywords.json in Resources */,
+				7257CD04266121E400E68C17 /* MSSQLFunctions.json in Resources */,
 				72BF3C872661192E007DB682 /* MySQLKeywords.json in Resources */,
+				7257CCF82661200600E68C17 /* PostgresKeywords.json in Resources */,
+				7257CD02266121E400E68C17 /* MongoKeywords.json in Resources */,
+				7257CD03266121E400E68C17 /* MongoFunctions.json in Resources */,
+				7257CCF126611FA600E68C17 /* SnowflakeFunctions.json in Resources */,
 				72BF3C862661192E007DB682 /* MySQLFunctions.json in Resources */,
+				7257CCFB266121D800E68C17 /* SQLiteFunctions.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,7 +257,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -273,7 +313,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
