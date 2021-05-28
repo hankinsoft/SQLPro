@@ -1,0 +1,62 @@
+{
+  "ABS" : {
+    "descriptionMarkup" : ""
+  },
+  "AVG" : {
+    "descriptionMarkup" : ""
+  },
+  "COUNT" : {
+    "descriptionMarkup" : ""
+  },
+  "CURDATE" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_FORMAT" : {
+    "descriptionMarkup" : ""
+  },
+  "DATE_SUB" : {
+    "descriptionMarkup" : ""
+  },
+  "FROM_BASE64" : {
+    "descriptionMarkup" : ""
+  },
+  "IFNULL" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_ARRAYAGG" : {
+    "descriptionMarkup" : ""
+  },
+  "JSON_OBJECT" : {
+    "descriptionMarkup" : ""
+  },
+  "LAST_INSERT_ID" : {
+    "descriptionMarkup" : ""
+  },
+  "LENGTH" : {
+    "descriptionMarkup" : ""
+  },
+  "MAX" : {
+    "descriptionMarkup" : ""
+  },
+  "MIN" : {
+    "descriptionMarkup" : ""
+  },
+  "MOD" : {
+    "descriptionMarkup" : ""
+  },
+  "SLEEP" : {
+    "descriptionMarkup" : ""
+  },
+  "SUM" : {
+    "descriptionMarkup" : ""
+  },
+  "TO_BASE64" : {
+    "descriptionMarkup" : ""
+  },
+  "UPPER" : {
+    "descriptionMarkup" : ""
+  }
+}
