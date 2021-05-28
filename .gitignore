@@ -1,0 +1,11 @@
+
+*.xcuserstate
+.DS_Store
+*.xcbkptlist
+*.xcschememanagement.plist
+
+*/xcuserdata/*
+*/xcuserdata
+
+xcuserdata
+*.xcuserdatad

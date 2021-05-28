@@ -48,54 +48,34 @@
 
         // Setup our sqlKeywords
         NSMutableArray * sqlKeywords = nil;
-        sqlKeywords = [[NSArray alloc] initWithContentsOfFile: [targetBundle pathForResource: keywordsResourceName ofType: @"plist"]].mutableCopy;
 
-        if(nil == sqlKeywords)
-        {
-            NSString * keywordsPath = [targetBundle pathForResource: keywordsResourceName
-                                                             ofType: @"json"];
+        NSString * keywordsPath = [targetBundle pathForResource: keywordsResourceName
+                                                         ofType: @"json"];
 
-            NSData * data = [NSData dataWithContentsOfFile: keywordsPath];
-            NSError * error = nil;
-            NSArray<NSString*>* keywords = [NSJSONSerialization JSONObjectWithData: data
-                                                                           options: kNilOptions
-                                                                             error: &error];
+        NSData * data = [NSData dataWithContentsOfFile: keywordsPath];
+        NSError * error = nil;
+        NSArray<NSString*>* tempKeywords = [NSJSONSerialization JSONObjectWithData: data
+                                                                       options: kNilOptions
+                                                                         error: &error];
 
-            sqlKeywords = [keywords sortedArrayUsingSelector: @selector(caseInsensitiveCompare:)].mutableCopy;
-        }
-        else
-        {
-            NSString * json = [self toJSONKeywords: sqlKeywords];
-            NSLog(@"JSON: %@", json);
-        }
+        sqlKeywords = [tempKeywords sortedArrayUsingSelector: @selector(caseInsensitiveCompare:)].mutableCopy;
 
+        // Add the default keywords
         [sqlKeywords addObjectsFromArray: SQLProKeywordsHelper.defaultKeywords.array];
         [sqlKeywords sortUsingSelector: @selector(localizedCaseInsensitiveCompare:)];
 
         // Setup our sqlKeywords
-        NSArray * sqlFunctions =
-            [[NSArray alloc] initWithContentsOfFile: [targetBundle pathForResource: functionsResourceName ofType: @"plist"]];
+        NSArray * sqlFunctions = nil;
 
-        sqlFunctions = [sqlFunctions sortedArrayUsingSelector: @selector(localizedCaseInsensitiveCompare:)];
+        NSString * functionsPath = [targetBundle pathForResource: functionsResourceName
+                                                         ofType: @"json"];
 
-        if(nil == sqlFunctions)
-        {
-            NSString * functionsPath = [targetBundle pathForResource: functionsResourceName
-                                                             ofType: @"json"];
+        data = [NSData dataWithContentsOfFile: functionsPath];
+        NSDictionary<NSString*,NSDictionary*>* tempFunctions = [NSJSONSerialization JSONObjectWithData: data
+                                                                                           options: kNilOptions
+                                                                                             error: &error];
 
-            NSData * data = [NSData dataWithContentsOfFile: functionsPath];
-            NSError * error = nil;
-            NSDictionary<NSString*,NSDictionary*>* functions = [NSJSONSerialization JSONObjectWithData: data
-                                                                                               options: kNilOptions
-                                                                                                 error: &error];
-
-            sqlFunctions = [functions.allKeys sortedArrayUsingSelector: @selector(caseInsensitiveCompare:)].mutableCopy;
-        }
-        else
-        {
-            NSString * json = [self toJSONFunctions: sqlFunctions];
-            NSLog(@"JSON: %@", json);
-        }
+        sqlFunctions = [tempFunctions.allKeys sortedArrayUsingSelector: @selector(caseInsensitiveCompare:)].mutableCopy;
 
         keywords  = [NSOrderedSet orderedSetWithArray: sqlKeywords];
         functions = [NSOrderedSet orderedSetWithArray: sqlFunctions];
@@ -123,42 +103,6 @@
 
     return self;
 } // End of initWithBundle:resourceName:
-
-- (NSString*) toJSONKeywords: (NSArray<NSString*>*) keywords
-{
-    keywords = [keywords valueForKeyPath: @"uppercaseString"];
-    NSError * error = nil;
-    NSData *jsonData = [NSJSONSerialization dataWithJSONObject: [keywords sortedArrayUsingSelector: @selector(localizedCaseInsensitiveCompare:)]
-                                                       options: NSJSONWritingPrettyPrinted
-                                                         error: &error];
-
-    NSString *jsonString = [[NSString alloc] initWithData: jsonData
-                                                 encoding: NSUTF8StringEncoding];
-
-    return jsonString;
-} // End of toJSON:
-
-- (NSString*) toJSONFunctions: (NSArray<NSString*>*) functions
-{
-    functions = [functions valueForKeyPath: @"uppercaseString"];
-    functions = [functions sortedArrayUsingSelector: @selector(localizedCaseInsensitiveCompare:)];
-
-    NSMutableDictionary * outArray = @{}.mutableCopy;
-    for(NSString * function in functions)
-    {
-        outArray[function] = @{@"descriptionMarkup": @""};
-    }
-
-    NSError * error = nil;
-    NSData *jsonData = [NSJSONSerialization dataWithJSONObject: outArray
-                                                       options: NSJSONWritingPrettyPrinted | NSJSONWritingSortedKeys
-                                                         error: &error];
-
-    NSString *jsonString = [[NSString alloc] initWithData: jsonData
-                                                 encoding: NSUTF8StringEncoding];
-
-    return jsonString;
-} // End of toJSON:
 
 - (NSOrderedSet<NSString*>*) keywords
 {
