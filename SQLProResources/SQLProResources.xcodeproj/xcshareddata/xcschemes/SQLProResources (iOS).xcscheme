@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7242261E2664F97B0031A737"
-               BuildableName = "SQLProResources (iOS).framework"
+               BuildableName = "SQLProResources.framework"
                BlueprintName = "SQLProResources (iOS)"
                ReferencedContainer = "container:SQLProResources.xcodeproj">
             </BuildableReference>
@@ -51,7 +51,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7242261E2664F97B0031A737"
-            BuildableName = "SQLProResources (iOS).framework"
+            BuildableName = "SQLProResources.framework"
             BlueprintName = "SQLProResources (iOS)"
             ReferencedContainer = "container:SQLProResources.xcodeproj">
          </BuildableReference>
