@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1250"
+   LastUpgradeVersion = "1210"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "72BF3C772661190C007DB682"
-               BuildableName = "SQLProResources.framework"
-               BlueprintName = "SQLProResources"
+               BlueprintIdentifier = "7242261E2664F97B0031A737"
+               BuildableName = "SQLProResources (iOS).framework"
+               BlueprintName = "SQLProResources (iOS)"
                ReferencedContainer = "container:SQLProResources.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -50,9 +50,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "72BF3C772661190C007DB682"
-            BuildableName = "SQLProResources.framework"
-            BlueprintName = "SQLProResources"
+            BlueprintIdentifier = "7242261E2664F97B0031A737"
+            BuildableName = "SQLProResources (iOS).framework"
+            BlueprintName = "SQLProResources (iOS)"
             ReferencedContainer = "container:SQLProResources.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

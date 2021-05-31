@@ -7,6 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		724226202664F97B0031A737 /* SQLProKeywordsHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 7257CCD826611D6400E68C17 /* SQLProKeywordsHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		724226212664F97B0031A737 /* SQLProResources.h in Headers */ = {isa = PBXBuildFile; fileRef = 72BF3C7B2661190C007DB682 /* SQLProResources.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		724226232664F97B0031A737 /* SQLProKeywordsHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 7257CCD726611D6400E68C17 /* SQLProKeywordsHelper.m */; };
+		724226262664F97B0031A737 /* MSSQLKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCFD266121E400E68C17 /* MSSQLKeywords.json */; };
+		724226272664F97B0031A737 /* PostgresFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCF52661200600E68C17 /* PostgresFunctions.json */; };
+		724226282664F97B0031A737 /* SQLiteKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCFA266121D800E68C17 /* SQLiteKeywords.json */; };
+		724226292664F97B0031A737 /* SQLProKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCD526611D1100E68C17 /* SQLProKeywords.json */; };
+		7242262A2664F97B0031A737 /* SnowflakeKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCF026611FA600E68C17 /* SnowflakeKeywords.json */; };
+		7242262B2664F97B0031A737 /* OracleKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CD062661225C00E68C17 /* OracleKeywords.json */; };
+		7242262C2664F97B0031A737 /* MSSQLFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CD00266121E400E68C17 /* MSSQLFunctions.json */; };
+		7242262D2664F97B0031A737 /* MySQLKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 72BF3C852661192E007DB682 /* MySQLKeywords.json */; };
+		7242262E2664F97B0031A737 /* PostgresKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCF62661200600E68C17 /* PostgresKeywords.json */; };
+		7242262F2664F97B0031A737 /* MongoKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCFE266121E400E68C17 /* MongoKeywords.json */; };
+		724226302664F97B0031A737 /* MongoFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCFF266121E400E68C17 /* MongoFunctions.json */; };
+		724226312664F97B0031A737 /* SnowflakeFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCEF26611FA600E68C17 /* SnowflakeFunctions.json */; };
+		724226322664F97B0031A737 /* OracleFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CD052661225C00E68C17 /* OracleFunctions.json */; };
+		724226332664F97B0031A737 /* MySQLFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 72BF3C842661192E007DB682 /* MySQLFunctions.json */; };
+		724226342664F97B0031A737 /* SQLiteFunctions.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCF9266121D800E68C17 /* SQLiteFunctions.json */; };
 		7257CCD626611D1100E68C17 /* SQLProKeywords.json in Resources */ = {isa = PBXBuildFile; fileRef = 7257CCD526611D1100E68C17 /* SQLProKeywords.json */; };
 		7257CCD926611D6400E68C17 /* SQLProKeywordsHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 7257CCD726611D6400E68C17 /* SQLProKeywordsHelper.m */; };
 		7257CCDA26611D6400E68C17 /* SQLProKeywordsHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 7257CCD826611D6400E68C17 /* SQLProKeywordsHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -28,6 +46,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		724226382664F97B0031A737 /* SQLProResources.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SQLProResources.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		724226392664F97B0031A737 /* SQLProResources copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "SQLProResources copy-Info.plist"; path = "/Users/kylehankinson/Code/SQLPro/SQLProResources/SQLProResources copy-Info.plist"; sourceTree = "<absolute>"; };
 		7257CCD526611D1100E68C17 /* SQLProKeywords.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SQLProKeywords.json; sourceTree = "<group>"; };
 		7257CCD726611D6400E68C17 /* SQLProKeywordsHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SQLProKeywordsHelper.m; sourceTree = SOURCE_ROOT; };
 		7257CCD826611D6400E68C17 /* SQLProKeywordsHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SQLProKeywordsHelper.h; sourceTree = SOURCE_ROOT; };
@@ -51,6 +71,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		724226242664F97B0031A737 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		72BF3C752661190C007DB682 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -66,6 +93,7 @@
 			children = (
 				72BF3C7A2661190C007DB682 /* SQLProResources */,
 				72BF3C792661190C007DB682 /* Products */,
+				724226392664F97B0031A737 /* SQLProResources copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -73,6 +101,7 @@
 			isa = PBXGroup;
 			children = (
 				72BF3C782661190C007DB682 /* SQLProResources.framework */,
+				724226382664F97B0031A737 /* SQLProResources.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -115,6 +144,15 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		7242261F2664F97B0031A737 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				724226202664F97B0031A737 /* SQLProKeywordsHelper.h in Headers */,
+				724226212664F97B0031A737 /* SQLProResources.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		72BF3C732661190C007DB682 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -127,9 +165,27 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		72BF3C772661190C007DB682 /* SQLProResources */ = {
+		7242261E2664F97B0031A737 /* SQLProResources (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 72BF3C802661190C007DB682 /* Build configuration list for PBXNativeTarget "SQLProResources" */;
+			buildConfigurationList = 724226352664F97B0031A737 /* Build configuration list for PBXNativeTarget "SQLProResources (iOS)" */;
+			buildPhases = (
+				7242261F2664F97B0031A737 /* Headers */,
+				724226222664F97B0031A737 /* Sources */,
+				724226242664F97B0031A737 /* Frameworks */,
+				724226252664F97B0031A737 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "SQLProResources (iOS)";
+			productName = SQLProResources;
+			productReference = 724226382664F97B0031A737 /* SQLProResources.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		72BF3C772661190C007DB682 /* SQLProResources (macOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 72BF3C802661190C007DB682 /* Build configuration list for PBXNativeTarget "SQLProResources (macOS)" */;
 			buildPhases = (
 				72BF3C732661190C007DB682 /* Headers */,
 				72BF3C742661190C007DB682 /* Sources */,
@@ -140,7 +196,7 @@
 			);
 			dependencies = (
 			);
-			name = SQLProResources;
+			name = "SQLProResources (macOS)";
 			productName = SQLProResources;
 			productReference = 72BF3C782661190C007DB682 /* SQLProResources.framework */;
 			productType = "com.apple.product-type.framework";
@@ -171,12 +227,35 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				72BF3C772661190C007DB682 /* SQLProResources */,
+				72BF3C772661190C007DB682 /* SQLProResources (macOS) */,
+				7242261E2664F97B0031A737 /* SQLProResources (iOS) */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		724226252664F97B0031A737 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				724226262664F97B0031A737 /* MSSQLKeywords.json in Resources */,
+				724226272664F97B0031A737 /* PostgresFunctions.json in Resources */,
+				724226282664F97B0031A737 /* SQLiteKeywords.json in Resources */,
+				724226292664F97B0031A737 /* SQLProKeywords.json in Resources */,
+				7242262A2664F97B0031A737 /* SnowflakeKeywords.json in Resources */,
+				7242262B2664F97B0031A737 /* OracleKeywords.json in Resources */,
+				7242262C2664F97B0031A737 /* MSSQLFunctions.json in Resources */,
+				7242262D2664F97B0031A737 /* MySQLKeywords.json in Resources */,
+				7242262E2664F97B0031A737 /* PostgresKeywords.json in Resources */,
+				7242262F2664F97B0031A737 /* MongoKeywords.json in Resources */,
+				724226302664F97B0031A737 /* MongoFunctions.json in Resources */,
+				724226312664F97B0031A737 /* SnowflakeFunctions.json in Resources */,
+				724226322664F97B0031A737 /* OracleFunctions.json in Resources */,
+				724226332664F97B0031A737 /* MySQLFunctions.json in Resources */,
+				724226342664F97B0031A737 /* SQLiteFunctions.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		72BF3C762661190C007DB682 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -202,6 +281,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		724226222664F97B0031A737 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				724226232664F97B0031A737 /* SQLProKeywordsHelper.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		72BF3C742661190C007DB682 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -213,6 +300,60 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
+		724226362664F97B0031A737 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = LKJB72232C;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "SQLProResources copy-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.hankinsoft.SQLProResources;
+				PRODUCT_NAME = SQLProResources;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		724226372664F97B0031A737 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = LKJB72232C;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "SQLProResources copy-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.hankinsoft.SQLProResources;
+				PRODUCT_NAME = SQLProResources;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 		72BF3C7E2661190C007DB682 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -265,6 +406,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -321,6 +463,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -348,7 +491,7 @@
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.hankinsoft.SQLProResources;
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_NAME = SQLProResources;
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
@@ -371,7 +514,7 @@
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.hankinsoft.SQLProResources;
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				PRODUCT_NAME = SQLProResources;
 				SKIP_INSTALL = YES;
 			};
 			name = Release;
@@ -379,6 +522,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		724226352664F97B0031A737 /* Build configuration list for PBXNativeTarget "SQLProResources (iOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				724226362664F97B0031A737 /* Debug */,
+				724226372664F97B0031A737 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		72BF3C722661190C007DB682 /* Build configuration list for PBXProject "SQLProResources" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -388,7 +540,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		72BF3C802661190C007DB682 /* Build configuration list for PBXNativeTarget "SQLProResources" */ = {
+		72BF3C802661190C007DB682 /* Build configuration list for PBXNativeTarget "SQLProResources (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				72BF3C812661190C007DB682 /* Debug */,
