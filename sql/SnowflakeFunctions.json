@@ -1,161 +1,389 @@
 {
-  "ASCII" : {
-    "descriptionMarkup" : ""
+  "ANY_VALUE": {
+    "descriptionMarkup": ""
   },
-  "CAST" : {
-    "descriptionMarkup" : ""
+  "APPROXIMATE_JACCARD_INDEX": {
+    "descriptionMarkup": ""
   },
-  "CHAR" : {
-    "descriptionMarkup" : ""
+  "APPROXIMATE_SIMILARITY": {
+    "descriptionMarkup": ""
   },
-  "CHARINDEX" : {
-    "descriptionMarkup" : ""
+  "APPROX_COUNT_DISTINCT": {
+    "descriptionMarkup": ""
   },
-  "COALESCE" : {
-    "descriptionMarkup" : ""
+  "APPROX_PERCENTILE": {
+    "descriptionMarkup": ""
   },
-  "CONCAT" : {
-    "descriptionMarkup" : ""
+  "APPROX_PERCENTILE_ACCUMULATE": {
+    "descriptionMarkup": ""
   },
-  "CONTAINS" : {
-    "descriptionMarkup" : ""
+  "APPROX_PERCENTILE_COMBINE": {
+    "descriptionMarkup": ""
   },
-  "CONVERT" : {
-    "descriptionMarkup" : ""
+  "APPROX_PERCENTILE_ESTIMATE": {
+    "descriptionMarkup": ""
   },
-  "CONVERT_TIMEZONE" : {
-    "descriptionMarkup" : ""
+  "APPROX_TOP_K": {
+    "descriptionMarkup": ""
   },
-  "COUNT" : {
-    "descriptionMarkup" : ""
+  "APPROX_TOP_K_ACCUMULATE": {
+    "descriptionMarkup": ""
   },
-  "COUNT_BIG" : {
-    "descriptionMarkup" : ""
+  "APPROX_TOP_K_COMBINE": {
+    "descriptionMarkup": ""
   },
-  "CURRENT_DATE" : {
-    "descriptionMarkup" : ""
+  "APPROX_TOP_K_ESTIMATE": {
+    "descriptionMarkup": ""
   },
-  "CURRENT_SCHEMAS" : {
-    "descriptionMarkup" : ""
+  "ARRAY_AGG": {
+    "descriptionMarkup": ""
   },
-  "CURRENT_TIMESTAMP" : {
-    "descriptionMarkup" : ""
+  "ASCII": {
+    "descriptionMarkup": ""
   },
-  "DATEDIFF" : {
-    "descriptionMarkup" : ""
+  "AVG": {
+    "descriptionMarkup": ""
   },
-  "DIFFERENCE" : {
-    "descriptionMarkup" : ""
+  "BITAND_AGG": {
+    "descriptionMarkup": ""
   },
-  "FORMAT" : {
-    "descriptionMarkup" : ""
+  "BITOR_AGG": {
+    "descriptionMarkup": ""
   },
-  "GET_DDL" : {
-    "descriptionMarkup" : ""
+  "BITXOR_AGG": {
+    "descriptionMarkup": ""
   },
-  "GETANCESTOR" : {
-    "descriptionMarkup" : ""
+  "BOOLAND_AGG": {
+    "descriptionMarkup": ""
   },
-  "GETDATE" : {
-    "descriptionMarkup" : ""
+  "BOOLOR_AGG": {
+    "descriptionMarkup": ""
   },
-  "GETUTCDATE" : {
-    "descriptionMarkup" : ""
+  "BOOLXOR_AGG": {
+    "descriptionMarkup": ""
   },
-  "IIF" : {
-    "descriptionMarkup" : ""
+  "CAST": {
+    "descriptionMarkup": ""
   },
-  "LEN" : {
-    "descriptionMarkup" : ""
+  "CHAR": {
+    "descriptionMarkup": ""
   },
-  "LOWER" : {
-    "descriptionMarkup" : ""
+  "CHARINDEX": {
+    "descriptionMarkup": ""
   },
-  "LTRIM" : {
-    "descriptionMarkup" : ""
+  "COALESCE": {
+    "descriptionMarkup": ""
   },
-  "MAX" : {
-    "descriptionMarkup" : ""
+  "CONCAT": {
+    "descriptionMarkup": ""
   },
-  "MIN" : {
-    "descriptionMarkup" : ""
+  "CONDITIONAL_CHANGE_EVENT": {
+    "descriptionMarkup": ""
   },
-  "NEWID" : {
-    "descriptionMarkup" : ""
+  "CONDITIONAL_TRUE_EVENT": {
+    "descriptionMarkup": ""
   },
-  "OBJECT_DEFINITION" : {
-    "descriptionMarkup" : ""
+  "CONTAINS": {
+    "descriptionMarkup": ""
   },
-  "OBJECT_ID" : {
-    "descriptionMarkup" : ""
+  "CONVERT": {
+    "descriptionMarkup": ""
   },
-  "OBJECTPROPERTY" : {
-    "descriptionMarkup" : ""
+  "CONVERT_TIMEZONE": {
+    "descriptionMarkup": ""
   },
-  "OVER" : {
-    "descriptionMarkup" : ""
+  "CORR": {
+    "descriptionMarkup": ""
   },
-  "PATINDEX" : {
-    "descriptionMarkup" : ""
+  "COUNT": {
+    "descriptionMarkup": ""
   },
-  "QUOTENAME" : {
-    "descriptionMarkup" : ""
+  "COUNT_BIG": {
+    "descriptionMarkup": ""
   },
-  "REPLACE" : {
-    "descriptionMarkup" : ""
+  "COUNT_IF": {
+    "descriptionMarkup": ""
   },
-  "REVERES" : {
-    "descriptionMarkup" : ""
+  "COVAR_POP": {
+    "descriptionMarkup": ""
   },
-  "RTRIM" : {
-    "descriptionMarkup" : ""
+  "COVAR_SAMP": {
+    "descriptionMarkup": ""
   },
-  "SOUNDEX" : {
-    "descriptionMarkup" : ""
+  "CUME_DIST": {
+    "descriptionMarkup": ""
   },
-  "SPACE" : {
-    "descriptionMarkup" : ""
+  "CURRENT_DATE": {
+    "descriptionMarkup": ""
   },
-  "STR" : {
-    "descriptionMarkup" : ""
+  "CURRENT_SCHEMAS": {
+    "descriptionMarkup": ""
   },
-  "STUFF" : {
-    "descriptionMarkup" : ""
+  "CURRENT_TIMESTAMP": {
+    "descriptionMarkup": ""
   },
-  "SUBSTRING" : {
-    "descriptionMarkup" : ""
+  "DATEDIFF": {
+    "descriptionMarkup": ""
   },
-  "SUM" : {
-    "descriptionMarkup" : ""
+  "DENSE_RANK": {
+    "descriptionMarkup": ""
   },
-  "SYSDATETIME" : {
-    "descriptionMarkup" : ""
+  "DIFFERENCE": {
+    "descriptionMarkup": ""
   },
-  "SYSDATETIMEOFFSET" : {
-    "descriptionMarkup" : ""
+  "FIRST_VALUE": {
+    "descriptionMarkup": ""
   },
-  "SYSUTCDATETIME" : {
-    "descriptionMarkup" : ""
+  "FORMAT": {
+    "descriptionMarkup": ""
   },
-  "TO_TIMESTAMP_LTZ" : {
-    "descriptionMarkup" : ""
+  "GETANCESTOR": {
+    "descriptionMarkup": ""
   },
-  "TO_TIMESTAMP_NTZ" : {
-    "descriptionMarkup" : ""
+  "GETDATE": {
+    "descriptionMarkup": ""
   },
-  "TO_TIMESTAMP_TZ" : {
-    "descriptionMarkup" : ""
+  "GETUTCDATE": {
+    "descriptionMarkup": ""
   },
-  "TOSTRING" : {
-    "descriptionMarkup" : ""
+  "GET_DDL": {
+    "descriptionMarkup": ""
   },
-  "UNICODE" : {
-    "descriptionMarkup" : ""
+  "GROUPING": {
+    "descriptionMarkup": ""
   },
-  "UPPER" : {
-    "descriptionMarkup" : ""
+  "GROUPING_ID": {
+    "descriptionMarkup": ""
   },
-  "ZEROIFNULL" : {
-    "descriptionMarkup" : ""
+  "HASH_AGG": {
+    "descriptionMarkup": ""
+  },
+  "HLL": {
+    "descriptionMarkup": ""
+  },
+  "HLL_ACCUMULATE": {
+    "descriptionMarkup": ""
+  },
+  "HLL_COMBINE": {
+    "descriptionMarkup": ""
+  },
+  "HLL_ESTIMATE": {
+    "descriptionMarkup": ""
+  },
+  "HLL_EXPORT": {
+    "descriptionMarkup": ""
+  },
+  "HLL_IMPORT": {
+    "descriptionMarkup": ""
+  },
+  "IIF": {
+    "descriptionMarkup": ""
+  },
+  "KURTOSIS": {
+    "descriptionMarkup": ""
+  },
+  "LAG": {
+    "descriptionMarkup": ""
+  },
+  "LAST_VALUE": {
+    "descriptionMarkup": ""
+  },
+  "LEAD": {
+    "descriptionMarkup": ""
+  },
+  "LEN": {
+    "descriptionMarkup": ""
+  },
+  "LISTAGG": {
+    "descriptionMarkup": ""
+  },
+  "LOWER": {
+    "descriptionMarkup": ""
+  },
+  "LTRIM": {
+    "descriptionMarkup": ""
+  },
+  "MAX": {
+    "descriptionMarkup": ""
+  },
+  "MEDIAN": {
+    "descriptionMarkup": ""
+  },
+  "MIN": {
+    "descriptionMarkup": ""
+  },
+  "MINHASH": {
+    "descriptionMarkup": ""
+  },
+  "MINHASH_COMBINE": {
+    "descriptionMarkup": ""
+  },
+  "MODE": {
+    "descriptionMarkup": ""
+  },
+  "NEWID": {
+    "descriptionMarkup": ""
+  },
+  "NTH_VALUE": {
+    "descriptionMarkup": ""
+  },
+  "NTILE": {
+    "descriptionMarkup": ""
+  },
+  "OBJECTPROPERTY": {
+    "descriptionMarkup": ""
+  },
+  "OBJECT_AGG": {
+    "descriptionMarkup": ""
+  },
+  "OBJECT_DEFINITION": {
+    "descriptionMarkup": ""
+  },
+  "OBJECT_ID": {
+    "descriptionMarkup": ""
+  },
+  "OVER": {
+    "descriptionMarkup": ""
+  },
+  "PATINDEX": {
+    "descriptionMarkup": ""
+  },
+  "PERCENTILE_CONT": {
+    "descriptionMarkup": ""
+  },
+  "PERCENTILE_DISC": {
+    "descriptionMarkup": ""
+  },
+  "PERCENT_RANK": {
+    "descriptionMarkup": ""
+  },
+  "QUOTENAME": {
+    "descriptionMarkup": ""
+  },
+  "RANK": {
+    "descriptionMarkup": ""
+  },
+  "RATIO_TO_REPORT": {
+    "descriptionMarkup": ""
+  },
+  "REGR_AVGX": {
+    "descriptionMarkup": ""
+  },
+  "REGR_AVGY": {
+    "descriptionMarkup": ""
+  },
+  "REGR_COUNT": {
+    "descriptionMarkup": ""
+  },
+  "REGR_INTERCEPT": {
+    "descriptionMarkup": ""
+  },
+  "REGR_R2": {
+    "descriptionMarkup": ""
+  },
+  "REGR_SLOPE": {
+    "descriptionMarkup": ""
+  },
+  "REGR_SXX": {
+    "descriptionMarkup": ""
+  },
+  "REGR_SXY": {
+    "descriptionMarkup": ""
+  },
+  "REGR_SYY": {
+    "descriptionMarkup": ""
+  },
+  "REPLACE": {
+    "descriptionMarkup": ""
+  },
+  "REVERES": {
+    "descriptionMarkup": ""
+  },
+  "ROW_NUMBER": {
+    "descriptionMarkup": ""
+  },
+  "RTRIM": {
+    "descriptionMarkup": ""
+  },
+  "SKEW": {
+    "descriptionMarkup": ""
+  },
+  "SOUNDEX": {
+    "descriptionMarkup": ""
+  },
+  "SPACE": {
+    "descriptionMarkup": ""
+  },
+  "STDDEV": {
+    "descriptionMarkup": ""
+  },
+  "STDDEV_POP": {
+    "descriptionMarkup": ""
+  },
+  "STDDEV_SAMP": {
+    "descriptionMarkup": ""
+  },
+  "STR": {
+    "descriptionMarkup": ""
+  },
+  "STUFF": {
+    "descriptionMarkup": ""
+  },
+  "SUBSTRING": {
+    "descriptionMarkup": ""
+  },
+  "SUM": {
+    "descriptionMarkup": ""
+  },
+  "SYSDATETIME": {
+    "descriptionMarkup": ""
+  },
+  "SYSDATETIMEOFFSET": {
+    "descriptionMarkup": ""
+  },
+  "SYSUTCDATETIME": {
+    "descriptionMarkup": ""
+  },
+  "TOSTRING": {
+    "descriptionMarkup": ""
+  },
+  "TO_TIMESTAMP_LTZ": {
+    "descriptionMarkup": ""
+  },
+  "TO_TIMESTAMP_NTZ": {
+    "descriptionMarkup": ""
+  },
+  "TO_TIMESTAMP_TZ": {
+    "descriptionMarkup": ""
+  },
+  "UNICODE": {
+    "descriptionMarkup": ""
+  },
+  "UPPER": {
+    "descriptionMarkup": ""
+  },
+  "VARIANCE": {
+    "descriptionMarkup": ""
+  },
+  "VARIANCE , VARIANCE_SAMP": {
+    "descriptionMarkup": ""
+  },
+  "VARIANCE_POP": {
+    "descriptionMarkup": ""
+  },
+  "VARIANCE_SAMP": {
+    "descriptionMarkup": ""
+  },
+  "VAR_POP": {
+    "descriptionMarkup": ""
+  },
+  "VAR_SAMP": {
+    "descriptionMarkup": ""
+  },
+  "WIDTH_BUCKET": {
+    "descriptionMarkup": ""
+  },
+  "ZEROIFNULL": {
+    "descriptionMarkup": ""
   }
 }
