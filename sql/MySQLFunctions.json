@@ -58,5 +58,8 @@
   },
   "UPPER" : {
     "descriptionMarkup" : ""
+  },
+  "UNIX_TIMESTAMP" : {
+    "descriptionMarkup" : ""
   }
 }
