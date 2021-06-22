@@ -1,0 +1,32 @@
+var arr = [];
+$("table tr").each(function(){
+    var last = $(this).find("td:last").text().trim();
+
+    var temp = $(this).find("td:first").text().trim();
+    if(temp.length <= 1) {
+        return;
+    }
+
+    var entries = temp.split(/([,\/]|\|\|)/);
+    for(i = 0; i < entries.length; ++i) {
+        var temp = entries[i].trim();
+
+        if(temp.includes("]") || temp.includes(">") || temp.includes(",")  || temp.includes("*") || temp.includes("/") || temp.includes(":")
+            || temp.includes("-") || temp.includes("$") || temp.includes("|")) {
+            console.log("Skipping: " + temp);
+            return;
+        }
+        
+        arr.push(temp); //put elements into array
+    }
+});
+
+arr = arr.sort();
+
+var result = {}; // note this
+var i;
+for (i = 0; i < arr.length; ++i) {
+    result[arr[i]] = {"descriptionMarkup":""};
+}
+
+JSON.stringify(result);
