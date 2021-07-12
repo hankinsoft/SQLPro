@@ -136,6 +136,7 @@
   "ORDER",
   "OUTER",
   "PATH",
+  "PARTITION",
   "PLAN",
   "PRAGMA",
   "PRIMARY",
