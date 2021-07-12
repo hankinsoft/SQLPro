@@ -256,6 +256,7 @@
   "PARTITION",
   "PASSING",
   "PASSWORD",
+  "PARTITION",
   "PLACING",
   "PLANS",
   "PLPGSQL",
