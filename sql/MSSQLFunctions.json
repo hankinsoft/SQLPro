@@ -2,6 +2,9 @@
   "ASCII" : {
     "descriptionMarkup" : ""
   },
+  "AVG" : {
+    "descriptionMarkup" : ""
+  },
   "CAST" : {
     "descriptionMarkup" : ""
   },
@@ -59,6 +62,9 @@
   "LTRIM" : {
     "descriptionMarkup" : ""
   },
+  "MIN" : {
+    "descriptionMarkup" : ""
+  },
   "MAX" : {
     "descriptionMarkup" : ""
   },
@@ -72,6 +78,9 @@
     "descriptionMarkup" : ""
   },
   "OBJECTPROPERTY" : {
+    "descriptionMarkup" : ""
+  },
+  "OVER" : {
     "descriptionMarkup" : ""
   },
   "PATINDEX" : {
