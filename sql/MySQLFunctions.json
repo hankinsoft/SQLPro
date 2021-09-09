@@ -17,6 +17,9 @@
   "DATE_FORMAT" : {
     "descriptionMarkup" : ""
   },
+  "DATE_ADD" : {
+    "descriptionMarkup" : ""
+  },
   "DATE_SUB" : {
     "descriptionMarkup" : ""
   },
@@ -31,6 +34,9 @@
   },
   "JSON_OBJECT" : {
     "descriptionMarkup" : ""
+  },
+  "LAST_DAY" : {
+      "descriptionMarkup" : ""
   },
   "LAST_INSERT_ID" : {
     "descriptionMarkup" : ""
