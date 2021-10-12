@@ -55,8 +55,8 @@
         NSData * data = [NSData dataWithContentsOfFile: keywordsPath];
         NSError * error = nil;
         NSArray<NSString*>* tempKeywords = [NSJSONSerialization JSONObjectWithData: data
-                                                                       options: kNilOptions
-                                                                         error: &error];
+                                                                           options: kNilOptions
+                                                                             error: &error];
 
         if(tempKeywords.count)
         {
@@ -82,7 +82,7 @@
                                                                                            options: kNilOptions
                                                                                              error: &error];
 
-        if(tempFunctions.count)
+        if(tempFunctions.allKeys.count)
         {
             sqlFunctions = [tempFunctions.allKeys sortedArrayUsingSelector: @selector(caseInsensitiveCompare:)].mutableCopy;
         }
