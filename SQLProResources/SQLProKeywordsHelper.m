@@ -58,7 +58,14 @@
                                                                        options: kNilOptions
                                                                          error: &error];
 
-        sqlKeywords = [tempKeywords sortedArrayUsingSelector: @selector(caseInsensitiveCompare:)].mutableCopy;
+        if(tempKeywords.count)
+        {
+            sqlKeywords = [tempKeywords sortedArrayUsingSelector: @selector(caseInsensitiveCompare:)].mutableCopy;
+        }
+        else
+        {
+            sqlKeywords = @[].mutableCopy;
+        }
 
         // Add the default keywords
         [sqlKeywords addObjectsFromArray: SQLProKeywordsHelper.defaultKeywords.array];
