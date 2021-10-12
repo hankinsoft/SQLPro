@@ -75,7 +75,14 @@
                                                                                            options: kNilOptions
                                                                                              error: &error];
 
-        sqlFunctions = [tempFunctions.allKeys sortedArrayUsingSelector: @selector(caseInsensitiveCompare:)].mutableCopy;
+        if(tempFunctions.count)
+        {
+            sqlFunctions = [tempFunctions.allKeys sortedArrayUsingSelector: @selector(caseInsensitiveCompare:)].mutableCopy;
+        }
+        else
+        {
+            sqlFunctions = @[];
+        }
 
         keywords  = [NSOrderedSet orderedSetWithArray: sqlKeywords];
         functions = [NSOrderedSet orderedSetWithArray: sqlFunctions];
