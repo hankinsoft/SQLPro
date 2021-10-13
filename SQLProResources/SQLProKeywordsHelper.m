@@ -47,24 +47,23 @@
         NSBundle * targetBundle = [NSBundle bundleForClass: SQLProKeywordsHelper.class];
 
         // Setup our sqlKeywords
-        NSMutableArray * sqlKeywords = nil;
+        NSMutableArray * sqlKeywords = @[].mutableCopy;
 
-        NSString * keywordsPath = [targetBundle pathForResource: keywordsResourceName
-                                                         ofType: @"json"];
-
-        NSData * data = [NSData dataWithContentsOfFile: keywordsPath];
-        NSError * error = nil;
-        NSArray<NSString*>* tempKeywords = [NSJSONSerialization JSONObjectWithData: data
-                                                                           options: kNilOptions
-                                                                             error: &error];
-
-        if(tempKeywords.count)
+        if(0 != keywordsResourceName.length)
         {
-            sqlKeywords = [tempKeywords sortedArrayUsingSelector: @selector(caseInsensitiveCompare:)].mutableCopy;
-        }
-        else
-        {
-            sqlKeywords = @[].mutableCopy;
+            NSString * keywordsPath = [targetBundle pathForResource: keywordsResourceName
+                                                             ofType: @"json"];
+
+            NSData * data = [NSData dataWithContentsOfFile: keywordsPath];
+            NSError * error = nil;
+            NSArray<NSString*>* tempKeywords = [NSJSONSerialization JSONObjectWithData: data
+                                                                               options: kNilOptions
+                                                                                 error: &error];
+
+            if(tempKeywords.count)
+            {
+                sqlKeywords = [tempKeywords sortedArrayUsingSelector: @selector(caseInsensitiveCompare:)].mutableCopy;
+            }
         }
 
         // Add the default keywords
@@ -72,23 +71,22 @@
         [sqlKeywords sortUsingSelector: @selector(localizedCaseInsensitiveCompare:)];
 
         // Setup our sqlKeywords
-        NSArray * sqlFunctions = nil;
-
-        NSString * functionsPath = [targetBundle pathForResource: functionsResourceName
-                                                         ofType: @"json"];
-
-        data = [NSData dataWithContentsOfFile: functionsPath];
-        NSDictionary<NSString*,NSDictionary*>* tempFunctions = [NSJSONSerialization JSONObjectWithData: data
-                                                                                           options: kNilOptions
-                                                                                             error: &error];
-
-        if(tempFunctions.allKeys.count)
+        NSArray * sqlFunctions = @[];
+        if(0 != functionsResourceName.length)
         {
-            sqlFunctions = [tempFunctions.allKeys sortedArrayUsingSelector: @selector(caseInsensitiveCompare:)].mutableCopy;
-        }
-        else
-        {
-            sqlFunctions = @[];
+            NSString * functionsPath = [targetBundle pathForResource: functionsResourceName
+                                                             ofType: @"json"];
+
+            NSData * data = [NSData dataWithContentsOfFile: functionsPath];
+            NSError * error = nil;
+            NSDictionary<NSString*,NSDictionary*>* tempFunctions = [NSJSONSerialization JSONObjectWithData: data
+                                                                                               options: kNilOptions
+                                                                                                 error: &error];
+
+            if(tempFunctions.allKeys.count)
+            {
+                sqlFunctions = [tempFunctions.allKeys sortedArrayUsingSelector: @selector(caseInsensitiveCompare:)].mutableCopy;
+            }
         }
 
         keywords  = [NSOrderedSet orderedSetWithArray: sqlKeywords];
