@@ -29,6 +29,25 @@
   "INSTR" : {
     "descriptionMarkup" : ""
   },
+
+  "JSON": {},
+  "JSON_ARRAY": {},
+  "JSON_ARRAY_LENGTH": {},
+  "JSON_EXTRACT": {},
+  "JSON_INSERT": {},
+  "JSON_OBJECT": {},
+  "JSON_PATCH": {},
+  "JSON_REMOVE": {},
+  "JSON_REPLACE": {},
+  "JSON_SET": {},
+  "JSON_TYPE": {},
+  "JSON_VALID": {},
+  "JSON_QUOTE": {},
+  "JSON_GROUP_ARRAY": {},
+  "JSON_GROUP_OBJECT": {},
+  "JSON_EACH": {},
+  "JSON_TREE": {},
+
   "LAST_INSERT_ROWID" : {
     "descriptionMarkup" : ""
   },
