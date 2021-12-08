@@ -8,4 +8,3 @@ You can also contact me directly via kyle @ hankinsoft.com, or visit the [suppor
 
 SQLPro for MSSQL and SQLPro Studio use the [FreeTDS](http://www.freetds.org) library. For a free and easy FreeTDS installation, use [Homebrew](http://brew.sh).
 
-README.md 
