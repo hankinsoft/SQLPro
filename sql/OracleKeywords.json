@@ -159,6 +159,7 @@
   "TOP",
   "TRANSACTION",
   "TRIGGER",
+  "TRUNCATE",
   "UNCOMMITED",
   "UNION",
   "UNIQUE",
