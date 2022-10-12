@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Environment (please complete the following information):**
  - Device: [e.g. iPhone6, MacBook]
  - OS: [e.g. iOS8.1, macOS 11]
- - SQLPro app Version [e.g. 2022.x]
+ - SQLPro app Version [e.g. SQLPro Studio 2022.x] Please ensure you specify the full app name. (ex: SQLPro Studio, SQLPro for MySQL, etc).
 - Target database server [e.g. MySQL, PostgreSQL, Microsoft SQL Server, etc]
 
 **Additional context**
