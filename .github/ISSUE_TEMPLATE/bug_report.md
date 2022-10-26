@@ -31,3 +31,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+**NOTE**
+If your environmental details above were not completely filled in, the bug report will be closed until they are provided.
