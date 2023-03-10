@@ -23,14 +23,14 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Environment (please complete the following information):**
+**Environment details (please complete the following information):**
  - Device: [e.g. iPhone6, MacBook]
  - OS: [e.g. iOS8.1, macOS 11]
  - SQLPro app Version [e.g. SQLPro Studio 2022.x] Please ensure you specify the full app name. (ex: SQLPro Studio, SQLPro for MySQL, etc).
+- Installation source: [App Store, Website download, Setapp].
 - Target database server [e.g. MySQL, PostgreSQL, Microsoft SQL Server, etc]
+
+**Issues will be closed until environmental details are provided.**
 
 **Additional context**
 Add any other context about the problem here.
-
-**NOTE**
-If your environmental details above were not completely filled in, the bug report will be closed until they are provided.

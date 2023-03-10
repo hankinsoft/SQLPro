@@ -23,6 +23,7 @@ Add any other context or screenshots about the feature request here.
  - Device: [e.g. iPhone6, MacBook]
  - OS: [e.g. iOS8.1, macOS 11]
  - SQLPro app Version [e.g. SQLPro Studio 2022.x] Please ensure you specify the full app name. (ex: SQLPro Studio, SQLPro for MySQL, etc).
+- Installation source: [App Store, Website download, Setapp].
 - Target database server [e.g. MySQL, PostgreSQL, Microsoft SQL Server, etc]
 
-**Requests will be closed unless environmental details are provided.**
+**Requests will be closed until environmental details are provided.**
