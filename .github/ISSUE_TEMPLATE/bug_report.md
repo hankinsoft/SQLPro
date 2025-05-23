@@ -34,4 +34,4 @@ If applicable, add screenshots to help explain your problem.
 Add any other context about the problem here.
 
 ## Issues will be closed until environmental details are provided.
-If the above template is not completed, issues with be closed with the statement `Issue has been closed. Please edit the initial post (or create a new issue) and follow the template. Once completed, the issue may be reopened`.
+⚠️ If the above template is not completed, issues with be closed with the statement `Issue has been closed. Please edit the initial post (or create a new issue) and follow the template. Once completed, the issue may be reopened`.
