@@ -1,7 +1,7 @@
 name: Bug report
 description: Create a report to help us improve SQLPro apps
-title: "[Bug]: "
-labels: ['type:bug-suspected']
+title: "Bug: "
+labels: ['type:bug']
 assignees: hankinsoft
 
 body:
@@ -10,58 +10,79 @@ body:
     attributes:
       label: Describe the bug
       description: A clear and concise description of what the bug is.
-    validations:
-      required: true
-
-  - type: textarea
-    id: reproduce
-    attributes:
-      label: Steps to reproduce
       value: |
-        1. Go to '…'
-        2. Click '…'
-        3. Scroll to '…'
+        **Describe the bug**
+        A clear and concise description of what the bug is.
+
+        **To Reproduce**
+        Steps to reproduce the behavior:
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
         4. See error
+
+        **Expected behavior**
+        A clear and concise description of what you expected to happen.
+
+        **Screenshots**
+        If applicable, add screenshots to help explain your problem.
+
+        **Additional details**
+        Enter any additional details we should know about.
+    validations:
+      minLength: 30
+      required: true
+
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      description: Which product are you using?
+      options:
+        - SQLPro Studio
+        - SQLPro for MySQL
+        - SQLPro for MSSQL
+        - SQLPro for Oracle
+        - SQLPro for SQLite
+        - SQLPro for Postgres
+        - SQLPro for Snowflake
     validations:
       required: true
 
-  - type: textarea
-    id: expected
+  - type: input
+    id: app-version
     attributes:
-      label: Expected behaviour
-      description: What did you expect to happen?
+      label: App version
+      description: Paste the exact version/build number (e.g. 2025.x).
+    validations:
+      required: true
+      pattern:
+        value: '^\d{4}\.\d+$'
+        message: "Use the format 4-digit year, a dot, then the build number (e.g. 2025.1)."
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: What platform are you having the issue on?
+      options:
+        - macOS
+        - iPhone
+        - iPad
+        - Windows
     validations:
       required: true
 
-  - type: textarea
-    id: screenshots
+  - type: dropdown
+    id: install-source
     attributes:
-      label: Screenshots
-      description: Paste images or drag-and-drop them below
-    validations:
-      required: false
-
-  - type: textarea
-    id: environment
-    attributes:
-      label: Environment details
-      value: |
-        - Device:
-        - OS:
-        - SQLPro app version:
-        - Installation source (App Store / Website / Setapp):
-        - Target database server:
+      label: Installation source
+      description: Where did you install the app from?
+      options:
+        - App Store
+        - Setapp
+        - Website download
+        - TestFlight
+        - Other
     validations:
       required: true
-
-  - type: textarea
-    id: extra
-    attributes:
-      label: Additional context
-    validations:
-      required: false
-
-  - type: markdown
-    attributes:
-      value: |
-        _Issues without complete environment details will be closed automatically._
