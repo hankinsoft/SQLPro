@@ -1,0 +1,67 @@
+name: Bug report
+description: Create a report to help us improve SQLPro apps
+title: "[Bug]: "
+labels: ['type:bug-suspected']
+assignees: hankinsoft
+
+body:
+  - type: textarea
+    id: bug
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      value: |
+        1. Go to '…'
+        2. Click '…'
+        3. Scroll to '…'
+        4. See error
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour
+      description: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Paste images or drag-and-drop them below
+    validations:
+      required: false
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment details
+      value: |
+        - Device:
+        - OS:
+        - SQLPro app version:
+        - Installation source (App Store / Website / Setapp):
+        - Target database server:
+    validations:
+      required: true
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        _Issues without complete environment details will be closed automatically._
