@@ -1,0 +1,81 @@
+name: Feature request
+about: Suggest an idea for this project
+title: 'Feature: '
+labels: ['type:feature']
+assignees: hankinsoft
+
+body:
+  - type: textarea
+    id: bug
+    attributes:
+      label: Feature request
+      description: Feature request
+      value: |
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+    validations:
+      minLength: 30
+      required: true
+
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      description: Which product are you using?
+      options:
+        - SQLPro Studio
+        - SQLPro for MySQL
+        - SQLPro for MSSQL
+        - SQLPro for Oracle
+        - SQLPro for SQLite
+        - SQLPro for Postgres
+        - SQLPro for Snowflake
+    validations:
+      required: true
+
+  - type: input
+    id: app-version
+    attributes:
+      label: App version
+      description: Paste the exact version/build number (e.g. 2025.x).
+    validations:
+      required: true
+      pattern:
+        value: '^\d{4}\.\d+$'
+        message: "Use the format 4-digit year, a dot, then the build number (e.g. 2025.1)."
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: What platform are you having the issue on?
+      options:
+        - macOS
+        - iPhone
+        - iPad
+        - Windows
+    validations:
+      required: true
+
+  - type: dropdown
+    id: install-source
+    attributes:
+      label: Installation source
+      description: Where did you install the app from?
+      options:
+        - App Store
+        - Setapp
+        - Website download
+        - TestFlight
+        - Other
+    validations:
+      required: true
