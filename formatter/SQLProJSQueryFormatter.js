@@ -71,6 +71,11 @@ function SqlFormatter()
         'LEFT OUTER JOIN', 'RIGHT OUTER JOIN', 'LEFT JOIN', 'RIGHT JOIN', 'OUTER JOIN', 'INNER JOIN', 'JOIN', 'XOR', 'OR', 'AND'
     ];
 
+    // Special patterns that should be treated as single tokens
+    this.$special_patterns = [
+        'IS DISTINCT FROM', 'IS NOT DISTINCT FROM'
+    ];
+
 
     this.$functions = [
         'ABS', 'ACOS', 'ADDDATE', 'ADDTIME', 'AES_DECRYPT', 'AES_ENCRYPT', 'AREA', 'ASBINARY', 'ASCII', 'ASIN', 'ASTEXT', 'ATAN', 'ATAN2',
@@ -103,7 +108,10 @@ function SqlFormatter()
 
     // Punctuation that can be used as a boundary between other tokens
 
-    this.$boundaries = [',', ';', '::', ':', ')', '(', '.', '=', '<', '>', '+', '-', '*', '/', '!', '^', '%', '|', '&', '#'];
+    this.$boundaries = [
+        '!=', '!~*', '!~', '~*', '~', '->>', '->',
+        ',', ';', '::', ':', ')', '(', '.', '=', '<', '>', '+', '-', '*', '/', '!', '^', '%', '|', '&', '#'
+    ];
 
     // The tab character to use when formatting SQL
     this.$tab = "    ";
@@ -123,6 +131,8 @@ function SqlFormatter()
     this.$regex_reserved_toplevel;
 
     this.$regex_function;
+
+    this.$regex_special_patterns;
 
     // Cache variables
     // Only tokens shorter than this size will be cached.  Somewhere between 10 and 20 seems to work well for most cases.
@@ -165,6 +175,9 @@ function SqlFormatter()
         this.$regex_reserved_newline = '(' + this.$reserved_newline.map(quote_regex).join("|") + ')'.replace(' ', '\\s+');
         this.$regex_function = '(' + this.$functions.map(quote_regex).join("|") + ')';
 
+        // Special patterns for compound SQL constructs
+        this.$regex_special_patterns = '(' + this.$special_patterns.map(quote_regex).join("|") + ')'.replace(/ /g, '\\s+');
+
         this.$init = true;
     }
 
@@ -183,11 +196,24 @@ function SqlFormatter()
         if (preg_match('^\\s+', $string))
         {
             const $matches = $string.match('^\\s+');
-            
+
             var result = {};
             result[TOKEN_VALUE] = $matches[0];
             result[TOKEN_TYPE] = TOKEN_TYPE_WHITESPACE;
             return result;
+        }
+
+        // Check for special patterns like "IS DISTINCT FROM"
+        if (preg_match('^' + this.$regex_special_patterns + '($|\\s|' + this.$regex_boundaries + ')', $string.toUpperCase()))
+        {
+            const $matches = preg_match_str('^(' + this.$special_patterns.join("|") + ')($|\\s|' + this.$regex_boundaries + ')', $string, true);
+
+            if ($matches && $matches[1]) {
+                var result = {};
+                result[TOKEN_VALUE] = $matches[1];
+                result[TOKEN_TYPE] = TOKEN_TYPE_RESERVED;
+                return result;
+            }
         }
 
         // Comment
@@ -217,7 +243,30 @@ function SqlFormatter()
             return result;
         }
 
-        // Quoted String
+        /* ------------------------------------------------------------------
+         * PREFIX-LITERAL HANDLING
+         * ------------------------------------------------------------------
+         *  -  N'…' / n'…'  (T-SQL Unicode literals)
+         *  -  X'…' / x'…'  (hex string literals)
+         * Simply treat the prefix + quoted text as one TOKEN_TYPE_QUOTE.
+         */
+        if (($string[0] === 'N' || $string[0] === 'n') && $string[1] === '\'') {
+            var quoted = getQuotedString($string.substr(1)); // "'…'"
+            var result = {};
+            result[TOKEN_TYPE]  = TOKEN_TYPE_QUOTE;
+            result[TOKEN_VALUE] = 'N' + quoted;
+            return result;
+        }
+
+        if (($string[0] === 'X' || $string[0] === 'x') && $string[1] === '\'') {
+            var quoted = getQuotedString($string.substr(1)); // "'…'"
+            var result = {};
+            result[TOKEN_TYPE]  = TOKEN_TYPE_QUOTE;
+            result[TOKEN_VALUE] = 'X' + quoted;
+            return result;
+        }
+
+        // Quoted String (regular or back-tick)
         if ($string[0] === '"' || $string[0] === '\'' || $string[0] === '`' || $string[0] === '[')
         {
 	        var result = {};
