@@ -246,12 +246,12 @@ function SqlFormatter()
         /* ------------------------------------------------------------------
          * PREFIX-LITERAL HANDLING
          * ------------------------------------------------------------------
-         *  -  N'…' / n'…'  (T-SQL Unicode literals)
-         *  -  X'…' / x'…'  (hex string literals)
+         *  -  N'Ã¢â‚¬Â¦' / n'Ã¢â‚¬Â¦'  (T-SQL Unicode literals)
+         *  -  X'Ã¢â‚¬Â¦' / x'Ã¢â‚¬Â¦'  (hex string literals)
          * Simply treat the prefix + quoted text as one TOKEN_TYPE_QUOTE.
          */
         if (($string[0] === 'N' || $string[0] === 'n') && $string[1] === '\'') {
-            var quoted = getQuotedString($string.substr(1)); // "'…'"
+            var quoted = getQuotedString($string.substr(1)); // "'Ã¢â‚¬Â¦'"
             var result = {};
             result[TOKEN_TYPE]  = TOKEN_TYPE_QUOTE;
             result[TOKEN_VALUE] = 'N' + quoted;
@@ -259,7 +259,7 @@ function SqlFormatter()
         }
 
         if (($string[0] === 'X' || $string[0] === 'x') && $string[1] === '\'') {
-            var quoted = getQuotedString($string.substr(1)); // "'…'"
+            var quoted = getQuotedString($string.substr(1)); // "'Ã¢â‚¬Â¦'"
             var result = {};
             result[TOKEN_TYPE]  = TOKEN_TYPE_QUOTE;
             result[TOKEN_VALUE] = 'X' + quoted;
@@ -702,11 +702,7 @@ function SqlFormatter()
                 $increase_special_indent = true;
 
                 // If the last indent type was 'special', decrease the special indent for this round
-                console.log('reset');
-                console.log($indent_types);
                 reset($indent_types);
-                console.log($indent_types);
-                console.log('done reset');
                 if ($indent_types[0] === 'special')
                 {
                     $indent_level--;
